@@ -18,6 +18,44 @@ import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
 import plotly.express as px  
 
+
+german_states = [
+    "Baden-Württemberg",
+    "Bayern",
+    "Berlin",
+    "Brandenburg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Nordrhein-Westfalen",
+    "Rheinland-Pfalz",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Thüringen"
+]
+german_states_colors = {
+    'Baden-Württemberg': '#ff7f0e',  # bright orange
+    'Bayern': '#1f77b4',  # blue
+    'Berlin': '#d62728',  # red
+    'Brandenburg': '#2ca02c',  # green
+    'Bremen': '#9467bd',  # purple
+    'Hamburg': '#8c564b',  # brown
+    'Hessen': '#e377c2',  # pink
+    'Mecklenburg-Vorpommern': '#7f7f7f',  # gray
+    'Niedersachsen': '#bcbd22',  # olive
+    'Nordrhein-Westfalen': '#17becf',  # cyan
+    'Rheinland-Pfalz': '#ffbb78',  # light orange
+    'Saarland': '#98df8a',  # light green
+    'Sachsen': '#ff9896',  # salmon
+    'Sachsen-Anhalt': '#c5b0d5',  # lavender
+    'Schleswig-Holstein': '#f7b6d2',  # light pink
+    'Thüringen': '#c49c94'  # beige
+}
+
 def get_column_names(data):
     """ This function will be used to extract the column names for numerical and categorical variables
     info from the dataset
@@ -47,159 +85,27 @@ def percentage_null_values(data):
     return null_perc
 
 
-# In[26]:
 
 
-def select_threshold(data, thr):
+def merge_excel_sheets(file_path):
     """
-    Function that  calculates the percentage of missing values in every column of your dataset
-    input: data --> dataframe
-    
+    Function to merge multiple sheets from an Excel file into a single DataFrame.
+    It assumes that the sheet names are years and that the first row of each sheet contains the column headers.
+    The function will add a new column 'Year' to the DataFrame, which will contain the year corresponding to each sheet.
+    This is useful for datasets where each sheet represents data for a different year.
+    input: file_path --> path to the Excel file
+    output: merged DataFrame
     """
-    null_perc = percentage_nullValues(data)
-      
-    col_keep = null_perc[null_perc['Percentage_NaN'] < thr]
-    col_keep = list(col_keep.index)
-    print('Columns to keep:',len(col_keep))
-    print('Those columns have a percentage of NaN less than', str(thr), ':')
-    print(col_keep)
-    data_c= data[col_keep]
+    xls = pd.ExcelFile(file_path)
     
-    return data_c
+    # Read all sheets into a single DataFrame
+    df_list = []
+    for sheet in xls.sheet_names:
+        temp_df = pd.read_excel(xls, sheet_name=sheet)
+        temp_df["Year"] = int(sheet)  # Convert sheet name to year (assuming it's a valid year)
+        df_list.append(temp_df)
 
-
-# In[33]:
-
-
-def fill_na(data):
-    """
-    Function to fill NaN with mode (categorical variabls) and mean (numerical variables)
-    input: data -> df
-    """
-    for column in data:
-        if data[column].dtype != 'object':
-            data[column] = data[column].fillna(data[column].mean())  
-        else:
-            data[column] = data[column].fillna(data[column].mode()[0]) 
-    print('Number of missing values on your dataset are')
-    print()
-    print(data.isnull().sum())
-    return data
-
-
-# In[2]:
-
-def OutLiersBox(df,nameOfFeature):
-    """
-    Function to create a BoxPlot and visualise:
-    - All Points in the Variable
-    - Suspected Outliers in the variable
-
-    """
-    trace0 = go.Box(
-        y = df[nameOfFeature],
-        name = "All Points",
-        jitter = 0.3,
-        pointpos = -1.8,
-        boxpoints = 'all', #define that we want to plot all points
-        marker = dict(
-            color = 'rgb(7,40,89)'),
-        line = dict(
-            color = 'rgb(7,40,89)')
-    )
-
+    # Merge all dataframes
+    final_df = pd.concat(df_list, ignore_index=True)
     
-    trace1 = go.Box(
-        y = df[nameOfFeature],
-        name = "Suspected Outliers",
-        boxpoints = 'suspectedoutliers', # define the suspected Outliers
-        marker = dict(
-            color = 'rgba(219, 64, 82, 0.6)',
-            #outliercolor = 'rgba(219, 64, 82, 0.6)',
-            line = dict(
-                outlierwidth = 2)),
-        line = dict(
-            color = 'rgb(8,81,156)')
-    )
-
-
-    data = [trace0,trace1]
-
-    layout = go.Layout(
-        title = "{} Outliers".format(nameOfFeature)
-    )
-
-    fig = go.Figure(data=data,layout=layout)
-    fig.show()
-    #fig.write_html("{}_file.html".format(nameOfFeature))
-
-# In[3]:
-
-
-def corrCoef(data):
-    """
-    Function aimed to calculate the corrCoef between each pair of variables
-    
-    input: data->dataframe        
-    """
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    
-    num_vars, categ_var = get_column_names(data)
-    data_num = data[num_var]
-    data_corr = data_num.corr()
-    plt.figure(figsize=(10,8))
-    sns.heatmap(data_corr,
-                xticklabels = data_corr.columns.values,
-               yticklabels = data_corr.columns.values,
-               annot = True, vmax=1, vmin=-1, center=0, cmap= sns.color_palette("RdBu_r", 7))
-
-
-# In[4]:
-
-def corrCoef_Threshold(df):
-    mask = np.triu(np.ones_like(df.corr(), dtype=bool))
-
-    # Draw the heatmap
-    sns.heatmap(df.corr(), annot=True, mask = mask, vmax=1,vmin=-1,
-                cmap=sns.color_palette("RdBu_r", 7));
-
-
-def outlier_treatment(df, colname):
-    """
-    Function that drops the Outliers based on the IQR upper and lower boundaries 
-    input: df --> dataframe
-           colname --> str, name of the column
-    
-    """
-    
-    # Calculate the percentiles and the IQR
-    Q1,Q3 = np.percentile(df[colname], [25,75])
-    IQR = Q3 - Q1
-    
-    # Calculate the upper and lower limit
-    lower_limit = Q1 - (1.5 * IQR)
-    upper_limit = Q3 + (1.5 * IQR)
-    
-    # Drop the suspected outliers
-    df_clean = df[(df[colname] > lower_limit) & (df[colname] < upper_limit)]
-    
-    print('Shape of the raw data:', df.shape)
-    print('..................')
-    print('Shape of the cleaned data:', df_clean.shape)
-    return df_clean
-       
-    
-def outliers_loop(df_num):
-    """
-    jsklfjfl
-    
-    """
-    for item in np.arange(0,len(df_num.columns)):
-        if item == 0:
-            df_c = outlier_treatment(df_num, df_num.columns[item])
-        else:
-            df_c = outlier_treatment(df_c, df_num.columns[item]) 
-    return df_c         
-
-
+    return final_df
