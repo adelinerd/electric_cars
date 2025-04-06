@@ -37,6 +37,42 @@ german_states = [
     "Schleswig-Holstein",
     "Thüringen"
 ]
+
+german_states_abbreviations = {
+    "Baden-Württemberg" : "BW",
+    "Bayern": "BY",
+    "Berlin": "BE",
+    "Brandenburg": "BB",
+    "Bremen": "HB",
+    "Hamburg": "HH",
+    "Hessen": "HE",
+    "Mecklenburg-Vorpommern": "MV",
+    "Niedersachsen": "NI",
+    "Nordrhein-Westfalen": "NW",
+    "Rheinland-Pfalz": "RP",
+    "Saarland": "SL",
+    "Sachsen": "SN",
+    "Sachsen-Anhalt": "ST",
+    "Schleswig-Holstein": "SH",
+    "Thüringen": "TH"
+}
+# Define the German states and their abbreviations
+german_states = [
+    "Baden-Württemberg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Nordrhein-Westfalen",
+    "Rheinland-Pfalz",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Thüringen"
+]
+
 german_states_colors = {
     'Baden-Württemberg': '#ff7f0e',  # bright orange
     'Bayern': '#1f77b4',  # blue
@@ -55,6 +91,18 @@ german_states_colors = {
     'Schleswig-Holstein': '#f7b6d2',  # light pink
     'Thüringen': '#c49c94'  # beige
 }
+
+colors_fuel = { 
+    "Electric": "#81E552", 
+    "Plug-in Hybrid": "#4CD8E8" ,
+    "Hybrid total": "#FD8714",
+    "Gas": "#59BD2F",
+    "Benzin": "#029BD8",
+    "Diesel": "#FFDA00"
+}
+
+
+presentation_colors = ['#81E552', '#59BD2F', '#FD8714', '#4CD8E8', '#029BD8', '#FFDA00']
 
 def get_column_names(data):
     """ This function will be used to extract the column names for numerical and categorical variables
