@@ -92,6 +92,12 @@ german_states_colors = {
     'Thüringen': '#c49c94'  # beige
 }
 
+color_electric = "#81E552"
+color_hybrid = "#FD8714"
+color_gas = "#59BD2F"
+color_benzin = "#029BD8"
+color_diesel = "#FFDA00"
+
 colors_fuel = { 
     "Electric": "#81E552", 
     "Plug-in Hybrid": "#4CD8E8" ,
