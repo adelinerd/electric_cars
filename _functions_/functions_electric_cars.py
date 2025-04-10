@@ -92,9 +92,9 @@ german_states_colors = {
     'Thüringen': '#c49c94'  # beige
 }
 
-color_electric = "#81E552"
-color_hybrid = "#FD8714"
-color_gas = "#59BD2F"
+color_electric = "#81E552" #neongreen
+color_hybrid = "#FD8714" #orange
+color_gas = "#59BD2F" # green
 color_benzin = "#029BD8"
 color_diesel = "#FFDA00"
 
@@ -103,10 +103,17 @@ colors_fuel = {
     "Plug-in Hybrid": "#4CD8E8" ,
     "Hybrid total": "#FD8714",
     "Gas": "#59BD2F",
-    "Benzin": "#029BD8",
+    "Gasoline": "#029BD8",
     "Diesel": "#FFDA00"
 }
 
+def thousands_millions_formatter(x, pos):
+    if x >= 1e6:
+        return f'{x*1e-6:.0f}M'
+    elif x >= 1e3:
+        return f'{x*1e-3:.0f}K'
+    else:
+        return f'{int(x)}'
 
 presentation_colors = ['#81E552', '#59BD2F', '#FD8714', '#4CD8E8', '#029BD8', '#FFDA00']
 
