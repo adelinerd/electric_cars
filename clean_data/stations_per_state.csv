@@ -1,0 +1,17 @@
+state,number_of_charging_points,number_fast_charging_stations,number_regular_charging_stations
+Baden-Württemberg,93695,14271,79424
+Bayern,111983,19649,92334
+Berlin,18854,2325,16529
+Brandenburg,12340,2897,9443
+Bremen,3969,537,3432
+Hamburg,14077,2157,11920
+Hessen,41655,7504,34151
+Mecklenburg-Vorpommern,6887,1677,5210
+Niedersachsen,54124,11727,42397
+Nordrhein-Westfalen,101969,17163,84806
+Rheinland-Pfalz,21589,5975,15614
+Saarland,4217,762,3455
+Sachsen,20370,4620,15750
+Sachsen-Anhalt,9250,2698,6552
+Schleswig-Holstein,23142,4561,18581
+Thüringen,11742,3424,8318
