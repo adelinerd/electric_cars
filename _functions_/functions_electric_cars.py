@@ -1,24 +1,16 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[5]:
-
-
+## This script contains functions and constants used for data analysis and visualization
+# in the context of electric cars in Germany.
+# It includes functions for data preprocessing, merging Excel sheets, and creating new DataFrames.
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.offline as py
-import plotly.graph_objs as go
-import plotly.tools as tls
-py.init_notebook_mode(connected=True)
-sns.set(style="white", color_codes=True)
 
-import matplotlib.pyplot as plt
-import plotly.figure_factory as ff
-import plotly.express as px  
-
-
+# Define a list of German states
+# The list includes all 16 federal states of Germany
+# Each state is represented by its full name in German.
+# The states are used in various contexts, including administrative purposes,
+# statistical analysis, and geographical representation.
+# The states are:
 german_states = [
     "Baden-Württemberg",
     "Bayern",
@@ -38,6 +30,10 @@ german_states = [
     "Thüringen"
 ]
 
+# Define a dictionary to map German states to their respective abbreviations
+# The abbreviations are based on the official two-letter codes used in Germany
+# These codes are commonly used in various contexts, including vehicle registration plates
+# and administrative purposes.
 german_states_abbreviations = {
     "Baden-Württemberg" : "BW",
     "Bayern": "BY",
@@ -56,23 +52,8 @@ german_states_abbreviations = {
     "Schleswig-Holstein": "SH",
     "Thüringen": "TH"
 }
-# Define the German states and their abbreviations
-german_states = [
-    "Baden-Württemberg",
-    "Bremen",
-    "Hamburg",
-    "Hessen",
-    "Mecklenburg-Vorpommern",
-    "Niedersachsen",
-    "Nordrhein-Westfalen",
-    "Rheinland-Pfalz",
-    "Saarland",
-    "Sachsen",
-    "Sachsen-Anhalt",
-    "Schleswig-Holstein",
-    "Thüringen"
-]
-
+# Define a dictionary to map German states to their respective colors
+# The colors are chosen to be distinct and visually appealing
 german_states_colors = {
     'Baden-Württemberg': '#ff7f0e',  # bright orange
     'Bayern': '#1f77b4',  # blue
@@ -92,12 +73,35 @@ german_states_colors = {
     'Thüringen': '#c49c94'  # beige
 }
 
+# Define a dictionary to map German states to their respective names in English
+# The names are chosen to be more recognizable for an international audience
+state_name_mapping = {
+    "Baden-Württemberg": "Baden-Wurttemberg",
+    "Bayern": "Bavaria",
+    "Berlin": "Berlin",
+    "Brandenburg": "Brandenburg",
+    "Bremen": "Bremen",
+    "Hamburg": "Hamburg",
+    "Hessen": "Hesse",
+    "Mecklenburg-Vorpommern": "Mecklenburg-Western Pomerania",
+    "Niedersachsen": "Lower Saxony",
+    "Nordrhein-Westfalen": "North Rhine-Westphalia",
+    "Rheinland-Pfalz": "Rhineland-Palatinate",
+    "Saarland": "Saarland",
+    "Sachsen": "Saxony",
+    "Sachsen-Anhalt": "Saxony-Anhalt",
+    "Schleswig-Holstein": "Schleswig-Holstein",
+    "Thüringen": "Thuringia"
+}
+
 color_electric = "#81E552" #neongreen
 color_hybrid = "#FD8714" #orange
 color_gas = "#59BD2F" # green
 color_benzin = "#029BD8"
 color_diesel = "#FFDA00"
 
+# Define a dictionary to map fuel types to their respective colors
+# The colors are chosen to be distinct and visually appealing. Besides, they match the colors used in the presentation.
 colors_fuel = { 
     "Electric": "#81E552", 
     "Plug-in Hybrid": "#4CD8E8" ,
@@ -107,6 +111,10 @@ colors_fuel = {
     "Diesel": "#FFDA00"
 }
 
+# Define a function to format numbers in thousands and millions
+# The function takes a number and its position as input and returns a formatted string
+# This is to replace the default number formatting in matplotlib
+# The function is used to display numbers in a more readable format, especially for large numbers
 def thousands_millions_formatter(x, pos):
     if x >= 1e6:
         return f'{x*1e-6:.0f}M'
@@ -116,6 +124,7 @@ def thousands_millions_formatter(x, pos):
         return f'{int(x)}'
 
 presentation_colors = ['#81E552', '#59BD2F', '#FD8714', '#4CD8E8', '#029BD8', '#FFDA00']
+
 
 def get_column_names(data):
     """ This function will be used to extract the column names for numerical and categorical variables
