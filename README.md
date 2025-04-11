@@ -38,6 +38,8 @@ with cntributions from [AllWomen](https://www.allwomen.tech/bootcamp/data-analyt
 - Asia Noble
 - Sofía Valcarel
 
+## Getting started
+Check `TechnicalDocumentation.md` for documentation on what to install, folder structure, etc.
 
 ## License
 
