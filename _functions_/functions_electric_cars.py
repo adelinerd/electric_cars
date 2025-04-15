@@ -1,10 +1,14 @@
 
 ## This script contains functions and constants used for data analysis and visualization
-# in the context of electric cars in Germany.
+# in the context of electric cars in Germany. 
 # It includes functions for data preprocessing, merging Excel sheets, and creating new DataFrames.
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
+import geopandas as gpd
+
+from utils import thousands_millions_formatter
 
 # Define a list of German states
 # The list includes all 16 federal states of Germany
@@ -112,33 +116,6 @@ colors_fuel = {
     "Diesel": "#FFDA00"
 }
 
-# Define a function to format numbers in thousands and millions
-# The function takes a number and its position as input and returns a formatted string
-# This is to replace the default number formatting in matplotlib
-# The function is used to display numbers in a more readable format, especially for large numbers
-def thousands_millions_formatter(x, pos):
-    if x >= 1e6:
-        return f'{x*1e-6:.0f}M'
-    elif x >= 1e3:
-        return f'{x*1e-3:.0f}K'
-    else:
-        return f'{int(x)}'
-
-# Define a function to format numbers in thousands using european style
-# The function takes a number and its position as input and returns a formatted string
-# This is to replace the default number formatting in matplotlib
-# The function is used to display numbers in a more readable format, especially for large numbers
-
-def european_thousands(x, pos):
-    return f'{x:,.0f}'.replace(',', '.')
-
-
-def format_axes(ax):
-    ax.spines['top'].set_visible(False)
-    ax.spines['right'].set_visible(False)
-    ax.yaxis.set_major_formatter(FuncFormatter(thousands_millions_formatter))
-
-
 
 # Define a list of colors used in presentation
 presentation_colors = ['#81E552', '#59BD2F', '#FD8714', '#4CD8E8', '#029BD8', '#FFDA00']
@@ -222,4 +199,68 @@ def create_new_dataframe(df):
     autos_state.rename (columns = {'total_cars':'number_cars'}, inplace = True)
     return autos_state
 
-                     
+def plot_comparison_maps (geodf, first_column, first_title, second_column, second_title):
+    fig, axes = plt.subplots(1, 2, figsize=(20, 10))
+    
+    # Map 1: 
+    if not isinstance(geodf, pd.DataFrame):
+        raise TypeError("geodf must be a GeoDataFrame. Ensure the input is correct.")
+    
+    gdf_plot  = geodf.plot(
+        column=first_column,
+        cmap="Greens",
+        linewidth=0.8,
+        edgecolor='0.8',
+        legend=True,
+        ax=axes[0]
+    )
+    axes[0].yaxis.set_major_formatter(FuncFormatter(thousands_millions_formatter))
+    axes[0].set_title(first_title, fontsize=14)
+    axes[0].axis("off")
+    
+    # Get the colorbar object from the figure
+    cbar = gdf_plot.get_figure().get_axes()[-1]  # last axis is the colorbar
+    
+    # Apply the custom formatter to colorbar ticks
+    cbar.yaxis.set_major_formatter(FuncFormatter(thousands_millions_formatter))
+    
+    
+    # Map 2:
+    geodf.plot(
+        column=second_column,
+        cmap="Greens",
+        linewidth=0.8,
+        edgecolor='0.8',
+        legend=True,
+        ax=axes[1]
+    )
+    axes[1].set_title(second_title, fontsize=14)
+    axes[1].axis("off")
+    
+    plt.tight_layout()
+    plt.show()                     
+
+
+# Define a function to annotate states on a map
+# The function takes an axis object, a GeoDataFrame, and a label function as input
+# The label function is used to generate the labels for each state
+def annotate_states(ax, geodf, label_func):
+    for _, row in geodf.iterrows():
+        centroid = row["geometry"].centroid
+        centroid_x, centroid_y = centroid.x, centroid.y
+
+        if row['state'] == 'Brandenburg':  # Adjust Berlin/Brandenburg overlap
+            south_point = row["geometry"].bounds[1]
+            adjusted_y = (centroid_y + south_point) / 2
+            adjusted_x = centroid_x
+        else:
+            adjusted_x, adjusted_y = centroid_x, centroid_y
+
+        ax.annotate(
+            label_func(row),  # Flexible label
+            xy=(adjusted_x, adjusted_y),
+            ha="center",
+            fontsize=8,
+            color="black",
+            weight="bold"
+        )
