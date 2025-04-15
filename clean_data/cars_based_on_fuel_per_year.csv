@@ -1,897 +1,897 @@
-land,fuel,total_cars,year
-Baden-Württemberg,Benzin,5003238,2019
-Baden-Württemberg,Diesel,2984960,2019
-Baden-Württemberg,Gas,49062,2019
-Baden-Württemberg,Electric,19508,2019
-Baden-Württemberg,Hybrid total,52055,2019
-Baden-Württemberg,Plug-in Hybrid,12718,2019
-Baden-Württemberg,Sonstige,2319,2019
-Baden-Württemberg,Total,8111142,2019
-Bayern,Benzin,5971088,2019
-Bayern,Diesel,4030719,2019
-Bayern,Gas,59528,2019
-Bayern,Electric,24147,2019
-Bayern,Hybrid total,62173,2019
-Bayern,Plug-in Hybrid,14493,2019
-Bayern,Sonstige,2953,2019
-Bayern,Total,10150608,2019
-Berlin,Benzin,987176,2019
-Berlin,Diesel,408335,2019
-Berlin,Gas,17043,2019
-Berlin,Electric,3293,2019
-Berlin,Hybrid total,17846,2019
-Berlin,Plug-in Hybrid,2244,2019
-Berlin,Sonstige,448,2019
-Berlin,Total,1434141,2019
-Brandenburg,Benzin,1140264,2019
-Brandenburg,Diesel,588735,2019
-Brandenburg,Gas,17603,2019
-Brandenburg,Electric,2090,2019
-Brandenburg,Hybrid total,10560,2019
-Brandenburg,Plug-in Hybrid,1268,2019
-Brandenburg,Sonstige,668,2019
-Brandenburg,Total,1759920,2019
-Bremen,Benzin,216958,2019
-Bremen,Diesel,113496,2019
-Bremen,Gas,3519,2019
-Bremen,Electric,546,2019
-Bremen,Hybrid total,2536,2019
-Bremen,Plug-in Hybrid,385,2019
-Bremen,Sonstige,116,2019
-Bremen,Total,337171,2019
-Hamburg,Benzin,579451,2019
-Hamburg,Diesel,324255,2019
-Hamburg,Gas,6354,2019
-Hamburg,Electric,2606,2019
-Hamburg,Hybrid total,8398,2019
-Hamburg,Plug-in Hybrid,1703,2019
-Hamburg,Sonstige,290,2019
-Hamburg,Total,921354,2019
-Hessen,Benzin,2781116,2019
-Hessen,Diesel,1578142,2019
-Hessen,Gas,35299,2019
-Hessen,Electric,8047,2019
-Hessen,Hybrid total,29449,2019
-Hessen,Plug-in Hybrid,5621,2019
-Hessen,Sonstige,1633,2019
-Hessen,Total,4433686,2019
-Mecklenburg-Vorpommern,Benzin,644656,2019
-Mecklenburg-Vorpommern,Diesel,396334,2019
-Mecklenburg-Vorpommern,Gas,8215,2019
-Mecklenburg-Vorpommern,Electric,804,2019
-Mecklenburg-Vorpommern,Hybrid total,4716,2019
-Mecklenburg-Vorpommern,Plug-in Hybrid,541,2019
-Mecklenburg-Vorpommern,Sonstige,451,2019
-Mecklenburg-Vorpommern,Total,1055176,2019
-Niedersachsen,Benzin,3474047,2019
-Niedersachsen,Diesel,2185851,2019
-Niedersachsen,Gas,66479,2019
-Niedersachsen,Electric,8753,2019
-Niedersachsen,Hybrid total,26941,2019
-Niedersachsen,Plug-in Hybrid,6203,2019
-Niedersachsen,Sonstige,1905,2019
-Niedersachsen,Total,5763976,2019
-Nordrhein-Westfalen,Benzin,7675623,2019
-Nordrhein-Westfalen,Diesel,3956719,2019
-Nordrhein-Westfalen,Gas,163300,2019
-Nordrhein-Westfalen,Electric,27660,2019
-Nordrhein-Westfalen,Hybrid total,69900,2019
-Nordrhein-Westfalen,Plug-in Hybrid,13074,2019
-Nordrhein-Westfalen,Sonstige,3587,2019
-Nordrhein-Westfalen,Total,11896789,2019
-Rheinland-Pfalz,Benzin,1913593,2019
-Rheinland-Pfalz,Diesel,1133940,2019
-Rheinland-Pfalz,Gas,22193,2019
-Rheinland-Pfalz,Electric,4433,2019
-Rheinland-Pfalz,Hybrid total,15575,2019
-Rheinland-Pfalz,Plug-in Hybrid,2841,2019
-Rheinland-Pfalz,Sonstige,888,2019
-Rheinland-Pfalz,Total,3090622,2019
-Saarland,Benzin,493830,2019
-Saarland,Diesel,252123,2019
-Saarland,Gas,3499,2019
-Saarland,Electric,875,2019
-Saarland,Hybrid total,4999,2019
-Saarland,Plug-in Hybrid,567,2019
-Saarland,Sonstige,267,2019
-Saarland,Total,755593,2019
-Sachsen,Benzin,1734463,2019
-Sachsen,Diesel,833125,2019
-Sachsen,Gas,18867,2019
-Sachsen,Electric,2947,2019
-Sachsen,Hybrid total,14283,2019
-Sachsen,Plug-in Hybrid,1643,2019
-Sachsen,Sonstige,1148,2019
-Sachsen,Total,2604833,2019
-Sachsen-Anhalt,Benzin,961743,2019
-Sachsen-Anhalt,Diesel,487718,2019
-Sachsen-Anhalt,Gas,11377,2019
-Sachsen-Anhalt,Electric,1093,2019
-Sachsen-Anhalt,Hybrid total,6862,2019
-Sachsen-Anhalt,Plug-in Hybrid,877,2019
-Sachsen-Anhalt,Sonstige,706,2019
-Sachsen-Anhalt,Total,1469499,2019
-Schleswig-Holstein,Benzin,1218086,2019
-Schleswig-Holstein,Diesel,777605,2019
-Schleswig-Holstein,Gas,14951,2019
-Schleswig-Holstein,Electric,3796,2019
-Schleswig-Holstein,Hybrid total,9865,2019
-Schleswig-Holstein,Plug-in Hybrid,1837,2019
-Schleswig-Holstein,Sonstige,617,2019
-Schleswig-Holstein,Total,2024920,2019
-Thüringen,Benzin,927970,2019
-Thüringen,Diesel,520547,2019
-Thüringen,Gas,10257,2019
-Thüringen,Electric,1441,2019
-Thüringen,Hybrid total,6211,2019
-Thüringen,Plug-in Hybrid,957,2019
-Thüringen,Sonstige,513,2019
-Thüringen,Total,1466939,2019
-Baden-Württemberg,Benzin,5109529,2020
-Baden-Württemberg,Diesel,2962923,2020
-Baden-Württemberg,Gas,48629,2020
-Baden-Württemberg,Electric,29461,2020
-Baden-Württemberg,Hybrid total,84229,2020
-Baden-Württemberg,Plug-in Hybrid,19082,2020
-Baden-Württemberg,Sonstige,2219,2020
-Baden-Württemberg,Total,8236990,2020
-Bayern,Benzin,6057786,2020
-Bayern,Diesel,4072512,2020
-Bayern,Gas,57089,2020
-Bayern,Electric,35742,2020
-Bayern,Hybrid total,102026,2020
-Bayern,Plug-in Hybrid,21884,2020
-Bayern,Sonstige,2937,2020
-Bayern,Total,10328092,2020
-Berlin,Benzin,1000384,2020
-Berlin,Diesel,403994,2020
-Berlin,Gas,16540,2020
-Berlin,Electric,5871,2020
-Berlin,Hybrid total,25377,2020
-Berlin,Plug-in Hybrid,3539,2020
-Berlin,Sonstige,468,2020
-Berlin,Total,1452634,2020
-Brandenburg,Benzin,1151268,2020
-Brandenburg,Diesel,598442,2020
-Brandenburg,Gas,16952,2020
-Brandenburg,Electric,3037,2020
-Brandenburg,Hybrid total,14965,2020
-Brandenburg,Plug-in Hybrid,2019,2020
-Brandenburg,Sonstige,659,2020
-Brandenburg,Total,1785323,2020
-Bremen,Benzin,217852,2020
-Bremen,Diesel,113309,2020
-Bremen,Gas,3371,2020
-Bremen,Electric,870,2020
-Bremen,Hybrid total,3851,2020
-Bremen,Plug-in Hybrid,593,2020
-Bremen,Sonstige,121,2020
-Bremen,Total,339374,2020
-Hamburg,Benzin,586399,2020
-Hamburg,Diesel,323156,2020
-Hamburg,Gas,6106,2020
-Hamburg,Electric,3954,2020
-Hamburg,Hybrid total,15433,2020
-Hamburg,Plug-in Hybrid,2519,2020
-Hamburg,Sonstige,287,2020
-Hamburg,Total,935335,2020
-Hessen,Benzin,2835364,2020
-Hessen,Diesel,1565554,2020
-Hessen,Gas,34314,2020
-Hessen,Electric,12663,2020
-Hessen,Hybrid total,48391,2020
-Hessen,Plug-in Hybrid,9069,2020
-Hessen,Sonstige,1578,2020
-Hessen,Total,4497864,2020
-Mecklenburg-Vorpommern,Benzin,646559,2020
-Mecklenburg-Vorpommern,Diesel,406022,2020
-Mecklenburg-Vorpommern,Gas,7833,2020
-Mecklenburg-Vorpommern,Electric,1270,2020
-Mecklenburg-Vorpommern,Hybrid total,7066,2020
-Mecklenburg-Vorpommern,Plug-in Hybrid,873,2020
-Mecklenburg-Vorpommern,Sonstige,388,2020
-Mecklenburg-Vorpommern,Total,1069138,2020
-Niedersachsen,Benzin,3504515,2020
-Niedersachsen,Diesel,2227835,2020
-Niedersachsen,Gas,61826,2020
-Niedersachsen,Electric,14885,2020
-Niedersachsen,Hybrid total,40597,2020
-Niedersachsen,Plug-in Hybrid,8105,2020
-Niedersachsen,Sonstige,1874,2020
-Niedersachsen,Total,5851532,2020
-Nordrhein-Westfalen,Benzin,7832856,2020
-Nordrhein-Westfalen,Diesel,3935940,2020
-Nordrhein-Westfalen,Gas,157996,2020
-Nordrhein-Westfalen,Electric,43333,2020
-Nordrhein-Westfalen,Hybrid total,112476,2020
-Nordrhein-Westfalen,Plug-in Hybrid,21063,2020
-Nordrhein-Westfalen,Sonstige,3559,2020
-Nordrhein-Westfalen,Total,12086160,2020
-Rheinland-Pfalz,Benzin,1943016,2020
-Rheinland-Pfalz,Diesel,1141671,2020
-Rheinland-Pfalz,Gas,21310,2020
-Rheinland-Pfalz,Electric,6924,2020
-Rheinland-Pfalz,Hybrid total,23905,2020
-Rheinland-Pfalz,Plug-in Hybrid,4348,2020
-Rheinland-Pfalz,Sonstige,914,2020
-Rheinland-Pfalz,Total,3137740,2020
-Saarland,Benzin,499377,2020
-Saarland,Diesel,252505,2020
-Saarland,Gas,3334,2020
-Saarland,Electric,1311,2020
-Saarland,Hybrid total,7180,2020
-Saarland,Plug-in Hybrid,915,2020
-Saarland,Sonstige,260,2020
-Saarland,Total,763967,2020
-Sachsen,Benzin,1738702,2020
-Sachsen,Diesel,848051,2020
-Sachsen,Gas,17800,2020
-Sachsen,Electric,4151,2020
-Sachsen,Hybrid total,20800,2020
-Sachsen,Plug-in Hybrid,2523,2020
-Sachsen,Sonstige,1109,2020
-Sachsen,Total,2630613,2020
-Sachsen-Anhalt,Benzin,962424,2020
-Sachsen-Anhalt,Diesel,495096,2020
-Sachsen-Anhalt,Gas,10553,2020
-Sachsen-Anhalt,Electric,1641,2020
-Sachsen-Anhalt,Hybrid total,10104,2020
-Sachsen-Anhalt,Plug-in Hybrid,1258,2020
-Sachsen-Anhalt,Sonstige,690,2020
-Sachsen-Anhalt,Total,1480508,2020
-Schleswig-Holstein,Benzin,1231315,2020
-Schleswig-Holstein,Diesel,790089,2020
-Schleswig-Holstein,Gas,13925,2020
-Schleswig-Holstein,Electric,5822,2020
-Schleswig-Holstein,Hybrid total,15055,2020
-Schleswig-Holstein,Plug-in Hybrid,2898,2020
-Schleswig-Holstein,Sonstige,625,2020
-Schleswig-Holstein,Total,2056831,2020
-Thüringen,Benzin,927978,2020
-Thüringen,Diesel,527554,2020
-Thüringen,Gas,9260,2020
-Thüringen,Electric,3584,2020
-Thüringen,Hybrid total,9445,2020
-Thüringen,Plug-in Hybrid,1446,2020
-Thüringen,Sonstige,505,2020
-Thüringen,Total,1478326,2020
-Baden-Württemberg,Benzin,5152920,2021
-Baden-Württemberg,Diesel,2942115,2021
-Baden-Württemberg,Gas,47878,2021
-Baden-Württemberg,Electric,59836,2021
-Baden-Württemberg,Hybrid total,155449,2021
-Baden-Württemberg,Plug-in Hybrid,51907,2021
-Baden-Württemberg,Sonstige,2189,2021
-Baden-Württemberg,Total,8360387,2021
-Bayern,Benzin,6070946,2021
-Bayern,Diesel,4078818,2021
-Bayern,Gas,54741,2021
-Bayern,Electric,66015,2021
-Bayern,Hybrid total,189501,2021
-Bayern,Plug-in Hybrid,52092,2021
-Bayern,Sonstige,2913,2021
-Bayern,Total,10462934,2021
-Berlin,Benzin,1007500,2021
-Berlin,Diesel,400217,2021
-Berlin,Gas,16018,2021
-Berlin,Electric,10558,2021
-Berlin,Hybrid total,39704,2021
-Berlin,Plug-in Hybrid,9120,2021
-Berlin,Sonstige,490,2021
-Berlin,Total,1474487,2021
-Brandenburg,Benzin,1158214,2021
-Brandenburg,Diesel,610402,2021
-Brandenburg,Gas,16352,2021
-Brandenburg,Electric,6549,2021
-Brandenburg,Hybrid total,25660,2021
-Brandenburg,Plug-in Hybrid,5329,2021
-Brandenburg,Sonstige,651,2021
-Brandenburg,Total,1817828,2021
-Bremen,Benzin,218013,2021
-Bremen,Diesel,113614,2021
-Bremen,Gas,3215,2021
-Bremen,Electric,1663,2021
-Bremen,Hybrid total,7012,2021
-Bremen,Plug-in Hybrid,2012,2021
-Bremen,Sonstige,120,2021
-Bremen,Total,343637,2021
-Hamburg,Benzin,579925,2021
-Hamburg,Diesel,325684,2021
-Hamburg,Gas,5879,2021
-Hamburg,Electric,8490,2021
-Hamburg,Hybrid total,23659,2021
-Hamburg,Plug-in Hybrid,7360,2021
-Hamburg,Sonstige,280,2021
-Hamburg,Total,943917,2021
-Hessen,Benzin,2831638,2021
-Hessen,Diesel,1553174,2021
-Hessen,Gas,32954,2021
-Hessen,Electric,26834,2021
-Hessen,Hybrid total,89887,2021
-Hessen,Plug-in Hybrid,24811,2021
-Hessen,Sonstige,1573,2021
-Hessen,Total,4536060,2021
-Mecklenburg-Vorpommern,Benzin,649340,2021
-Mecklenburg-Vorpommern,Diesel,415482,2021
-Mecklenburg-Vorpommern,Gas,7605,2021
-Mecklenburg-Vorpommern,Electric,3028,2021
-Mecklenburg-Vorpommern,Hybrid total,12629,2021
-Mecklenburg-Vorpommern,Plug-in Hybrid,2321,2021
-Mecklenburg-Vorpommern,Sonstige,424,2021
-Mecklenburg-Vorpommern,Total,1088508,2021
-Niedersachsen,Benzin,3511265,2021
-Niedersachsen,Diesel,2252280,2021
-Niedersachsen,Gas,57786,2021
-Niedersachsen,Electric,39243,2021
-Niedersachsen,Hybrid total,82212,2021
-Niedersachsen,Plug-in Hybrid,26048,2021
-Niedersachsen,Sonstige,1933,2021
-Niedersachsen,Total,5944719,2021
-Nordrhein-Westfalen,Benzin,7872984,2021
-Nordrhein-Westfalen,Diesel,3949018,2021
-Nordrhein-Westfalen,Gas,150650,2021
-Nordrhein-Westfalen,Electric,85554,2021
-Nordrhein-Westfalen,Hybrid total,221801,2021
-Nordrhein-Westfalen,Plug-in Hybrid,61722,2021
-Nordrhein-Westfalen,Sonstige,3674,2021
-Nordrhein-Westfalen,Total,12283681,2021
-Rheinland-Pfalz,Benzin,1958913,2021
-Rheinland-Pfalz,Diesel,1148089,2021
-Rheinland-Pfalz,Gas,20465,2021
-Rheinland-Pfalz,Electric,15051,2021
-Rheinland-Pfalz,Hybrid total,44628,2021
-Rheinland-Pfalz,Plug-in Hybrid,11917,2021
-Rheinland-Pfalz,Sonstige,906,2021
-Rheinland-Pfalz,Total,3188052,2021
-Saarland,Benzin,501759,2021
-Saarland,Diesel,251640,2021
-Saarland,Gas,3205,2021
-Saarland,Electric,3184,2021
-Saarland,Hybrid total,12670,2021
-Saarland,Plug-in Hybrid,2531,2021
-Saarland,Sonstige,270,2021
-Saarland,Total,772728,2021
-Sachsen,Benzin,1736699,2021
-Sachsen,Diesel,861729,2021
-Sachsen,Gas,16997,2021
-Sachsen,Electric,8914,2021
-Sachsen,Hybrid total,37224,2021
-Sachsen,Plug-in Hybrid,7168,2021
-Sachsen,Sonstige,1067,2021
-Sachsen,Total,2662630,2021
-Sachsen-Anhalt,Benzin,959857,2021
-Sachsen-Anhalt,Diesel,502806,2021
-Sachsen-Anhalt,Gas,10061,2021
-Sachsen-Anhalt,Electric,3790,2021
-Sachsen-Anhalt,Hybrid total,18417,2021
-Sachsen-Anhalt,Plug-in Hybrid,3459,2021
-Sachsen-Anhalt,Sonstige,688,2021
-Sachsen-Anhalt,Total,1495619,2021
-Schleswig-Holstein,Benzin,1237428,2021
-Schleswig-Holstein,Diesel,803547,2021
-Schleswig-Holstein,Gas,13177,2021
-Schleswig-Holstein,Electric,13246,2021
-Schleswig-Holstein,Hybrid total,27984,2021
-Schleswig-Holstein,Plug-in Hybrid,7843,2021
-Schleswig-Holstein,Sonstige,657,2021
-Schleswig-Holstein,Total,2096039,2021
-Thüringen,Benzin,926322,2021
-Thüringen,Diesel,533726,2021
-Thüringen,Gas,8521,2021
-Thüringen,Electric,6153,2021
-Thüringen,Hybrid total,18671,2021
-Thüringen,Plug-in Hybrid,4069,2021
-Thüringen,Sonstige,469,2021
-Thüringen,Total,1493862,2021
-Baden-Württemberg,Benzin,5113327,2022
-Baden-Württemberg,Diesel,2906296,2022
-Baden-Württemberg,Gas,47503,2022
-Baden-Württemberg,Electric,112908,2022
-Baden-Württemberg,Hybrid total,253950,2022
-Baden-Württemberg,Plug-in Hybrid,99195,2022
-Baden-Württemberg,Sonstige,2213,2022
-Baden-Württemberg,Total,8436197,2022
-Bayern,Benzin,6038753,2022
-Bayern,Diesel,4049623,2022
-Bayern,Gas,53846,2022
-Bayern,Electric,123887,2022
-Bayern,Hybrid total,312224,2022
-Bayern,Plug-in Hybrid,102047,2022
-Bayern,Sonstige,2900,2022
-Bayern,Total,10581233,2022
-Berlin,Benzin,996089,2022
-Berlin,Diesel,397924,2022
-Berlin,Gas,15359,2022
-Berlin,Electric,18659,2022
-Berlin,Hybrid total,60907,2022
-Berlin,Plug-in Hybrid,17519,2022
-Berlin,Sonstige,520,2022
-Berlin,Total,1489458,2022
-Brandenburg,Benzin,1155449,2022
-Brandenburg,Diesel,615770,2022
-Brandenburg,Gas,15956,2022
-Brandenburg,Electric,13147,2022
-Brandenburg,Hybrid total,41523,2022
-Brandenburg,Plug-in Hybrid,11208,2022
-Brandenburg,Sonstige,635,2022
-Brandenburg,Total,1842480,2022
-Bremen,Benzin,215040,2022
-Bremen,Diesel,113166,2022
-Bremen,Gas,3081,2022
-Bremen,Electric,3264,2022
-Bremen,Hybrid total,11308,2022
-Bremen,Plug-in Hybrid,3803,2022
-Bremen,Sonstige,150,2022
-Bremen,Total,346009,2022
-Hamburg,Benzin,577298,2022
-Hamburg,Diesel,319054,2022
-Hamburg,Gas,5696,2022
-Hamburg,Electric,14880,2022
-Hamburg,Hybrid total,39327,2022
-Hamburg,Plug-in Hybrid,14517,2022
-Hamburg,Sonstige,283,2022
-Hamburg,Total,956538,2022
-Hessen,Benzin,2815795,2022
-Hessen,Diesel,1542543,2022
-Hessen,Gas,32328,2022
-Hessen,Electric,59374,2022
-Hessen,Hybrid total,154558,2022
-Hessen,Plug-in Hybrid,53604,2022
-Hessen,Sonstige,1549,2022
-Hessen,Total,4606147,2022
-Mecklenburg-Vorpommern,Benzin,645586,2022
-Mecklenburg-Vorpommern,Diesel,420472,2022
-Mecklenburg-Vorpommern,Gas,7465,2022
-Mecklenburg-Vorpommern,Electric,6120,2022
-Mecklenburg-Vorpommern,Hybrid total,20836,2022
-Mecklenburg-Vorpommern,Plug-in Hybrid,4724,2022
-Mecklenburg-Vorpommern,Sonstige,443,2022
-Mecklenburg-Vorpommern,Total,1100922,2022
-Niedersachsen,Benzin,3484728,2022
-Niedersachsen,Diesel,2263300,2022
-Niedersachsen,Gas,55412,2022
-Niedersachsen,Electric,71383,2022
-Niedersachsen,Hybrid total,132882,2022
-Niedersachsen,Plug-in Hybrid,49262,2022
-Niedersachsen,Sonstige,2078,2022
-Niedersachsen,Total,6009783,2022
-Nordrhein-Westfalen,Benzin,7789013,2022
-Nordrhein-Westfalen,Diesel,3926642,2022
-Nordrhein-Westfalen,Gas,145083,2022
-Nordrhein-Westfalen,Electric,161162,2022
-Nordrhein-Westfalen,Hybrid total,376882,2022
-Nordrhein-Westfalen,Plug-in Hybrid,131305,2022
-Nordrhein-Westfalen,Sonstige,3830,2022
-Nordrhein-Westfalen,Total,12402612,2022
-Rheinland-Pfalz,Benzin,1945645,2022
-Rheinland-Pfalz,Diesel,1143415,2022
-Rheinland-Pfalz,Gas,20075,2022
-Rheinland-Pfalz,Electric,31580,2022
-Rheinland-Pfalz,Hybrid total,77285,2022
-Rheinland-Pfalz,Plug-in Hybrid,25562,2022
-Rheinland-Pfalz,Sonstige,886,2022
-Rheinland-Pfalz,Total,3218886,2022
-Saarland,Benzin,496867,2022
-Saarland,Diesel,248390,2022
-Saarland,Gas,3191,2022
-Saarland,Electric,6585,2022
-Saarland,Hybrid total,21396,2022
-Saarland,Plug-in Hybrid,6023,2022
-Saarland,Sonstige,265,2022
-Saarland,Total,776694,2022
-Sachsen,Benzin,1717970,2022
-Sachsen,Diesel,868313,2022
-Sachsen,Gas,16808,2022
-Sachsen,Electric,16902,2022
-Sachsen,Hybrid total,61572,2022
-Sachsen,Plug-in Hybrid,15483,2022
-Sachsen,Sonstige,1046,2022
-Sachsen,Total,2682611,2022
-Sachsen-Anhalt,Benzin,947556,2022
-Sachsen-Anhalt,Diesel,506530,2022
-Sachsen-Anhalt,Gas,9872,2022
-Sachsen-Anhalt,Electric,7702,2022
-Sachsen-Anhalt,Hybrid total,30977,2022
-Sachsen-Anhalt,Plug-in Hybrid,7396,2022
-Sachsen-Anhalt,Sonstige,732,2022
-Sachsen-Anhalt,Total,1503369,2022
-Schleswig-Holstein,Benzin,1228776,2022
-Schleswig-Holstein,Diesel,807341,2022
-Schleswig-Holstein,Gas,12966,2022
-Schleswig-Holstein,Electric,26098,2022
-Schleswig-Holstein,Hybrid total,47200,2022
-Schleswig-Holstein,Plug-in Hybrid,15999,2022
-Schleswig-Holstein,Sonstige,747,2022
-Schleswig-Holstein,Total,2123128,2022
-Thüringen,Benzin,916453,2022
-Thüringen,Diesel,534611,2022
-Thüringen,Gas,8156,2022
-Thüringen,Electric,9636,2022
-Thüringen,Hybrid total,32220,2022
-Thüringen,Plug-in Hybrid,8285,2022
-Thüringen,Sonstige,470,2022
-Thüringen,Total,1501546,2022
-Baden-Württemberg,Benzin,5066772,2023
-Baden-Württemberg,Diesel,2856117,2023
-Baden-Württemberg,Gas,48021,2023
-Baden-Württemberg,Electric,177930,2023
-Baden-Württemberg,Hybrid total,351320,2023
-Baden-Württemberg,Plug-in Hybrid,143016,2023
-Baden-Württemberg,Sonstige,2215,2023
-Baden-Württemberg,Total,8502375,2023
-Bayern,Benzin,6005725,2023
-Bayern,Diesel,3996524,2023
-Bayern,Gas,54081,2023
-Bayern,Electric,208318,2023
-Bayern,Hybrid total,433938,2023
-Bayern,Plug-in Hybrid,155657,2023
-Bayern,Sonstige,2922,2023
-Bayern,Total,10701508,2023
-Berlin,Benzin,975320,2023
-Berlin,Diesel,390253,2023
-Berlin,Gas,14892,2023
-Berlin,Electric,32714,2023
-Berlin,Hybrid total,84189,2023
-Berlin,Plug-in Hybrid,25782,2023
-Berlin,Sonstige,567,2023
-Berlin,Total,1497935,2023
-Brandenburg,Benzin,1147710,2023
-Brandenburg,Diesel,612064,2023
-Brandenburg,Gas,15932,2023
-Brandenburg,Electric,21933,2023
-Brandenburg,Hybrid total,57386,2023
-Brandenburg,Plug-in Hybrid,17273,2023
-Brandenburg,Sonstige,642,2023
-Brandenburg,Total,1855667,2023
-Bremen,Benzin,211312,2023
-Bremen,Diesel,111609,2023
-Bremen,Gas,3014,2023
-Bremen,Electric,5446,2023
-Bremen,Hybrid total,15441,2023
-Bremen,Plug-in Hybrid,5587,2023
-Bremen,Sonstige,200,2023
-Bremen,Total,347022,2023
-Hamburg,Benzin,561728,2023
-Hamburg,Diesel,306731,2023
-Hamburg,Gas,5630,2023
-Hamburg,Electric,23517,2023
-Hamburg,Hybrid total,59553,2023
-Hamburg,Plug-in Hybrid,24131,2023
-Hamburg,Sonstige,324,2023
-Hamburg,Total,957483,2023
-Hessen,Benzin,2785550,2023
-Hessen,Diesel,1519612,2023
-Hessen,Gas,32019,2023
-Hessen,Electric,107291,2023
-Hessen,Hybrid total,223680,2023
-Hessen,Plug-in Hybrid,87468,2023
-Hessen,Sonstige,1781,2023
-Hessen,Total,4669933,2023
-Mecklenburg-Vorpommern,Benzin,642239,2023
-Mecklenburg-Vorpommern,Diesel,417970,2023
-Mecklenburg-Vorpommern,Gas,7448,2023
-Mecklenburg-Vorpommern,Electric,10290,2023
-Mecklenburg-Vorpommern,Hybrid total,29274,2023
-Mecklenburg-Vorpommern,Plug-in Hybrid,7531,2023
-Mecklenburg-Vorpommern,Sonstige,418,2023
-Mecklenburg-Vorpommern,Total,1107639,2023
-Niedersachsen,Benzin,3455373,2023
-Niedersachsen,Diesel,2239452,2023
-Niedersachsen,Gas,54225,2023
-Niedersachsen,Electric,115272,2023
-Niedersachsen,Hybrid total,183207,2023
-Niedersachsen,Plug-in Hybrid,72861,2023
-Niedersachsen,Sonstige,2098,2023
-Niedersachsen,Total,6049627,2023
-Nordrhein-Westfalen,Benzin,7700957,2023
-Nordrhein-Westfalen,Diesel,3866600,2023
-Nordrhein-Westfalen,Gas,142083,2023
-Nordrhein-Westfalen,Electric,266568,2023
-Nordrhein-Westfalen,Hybrid total,529667,2023
-Nordrhein-Westfalen,Plug-in Hybrid,202812,2023
-Nordrhein-Westfalen,Sonstige,4002,2023
-Nordrhein-Westfalen,Total,12509877,2023
-Rheinland-Pfalz,Benzin,1933252,2023
-Rheinland-Pfalz,Diesel,1126495,2023
-Rheinland-Pfalz,Gas,20169,2023
-Rheinland-Pfalz,Electric,56018,2023
-Rheinland-Pfalz,Hybrid total,109410,2023
-Rheinland-Pfalz,Plug-in Hybrid,39881,2023
-Rheinland-Pfalz,Sonstige,889,2023
-Rheinland-Pfalz,Total,3246233,2023
-Saarland,Benzin,492088,2023
-Saarland,Diesel,242484,2023
-Saarland,Gas,3270,2023
-Saarland,Electric,12564,2023
-Saarland,Hybrid total,30747,2023
-Saarland,Plug-in Hybrid,10242,2023
-Saarland,Sonstige,260,2023
-Saarland,Total,781413,2023
-Sachsen,Benzin,1702859,2023
-Sachsen,Diesel,862004,2023
-Sachsen,Gas,16913,2023
-Sachsen,Electric,26565,2023
-Sachsen,Hybrid total,85497,2023
-Sachsen,Plug-in Hybrid,23979,2023
-Sachsen,Sonstige,1025,2023
-Sachsen,Total,2694863,2023
-Sachsen-Anhalt,Benzin,938866,2023
-Sachsen-Anhalt,Diesel,501856,2023
-Sachsen-Anhalt,Gas,9836,2023
-Sachsen-Anhalt,Electric,14137,2023
-Sachsen-Anhalt,Hybrid total,42764,2023
-Sachsen-Anhalt,Plug-in Hybrid,11593,2023
-Sachsen-Anhalt,Sonstige,745,2023
-Sachsen-Anhalt,Total,1508204,2023
-Schleswig-Holstein,Benzin,1217618,2023
-Schleswig-Holstein,Diesel,798358,2023
-Schleswig-Holstein,Gas,12841,2023
-Schleswig-Holstein,Electric,42911,2023
-Schleswig-Holstein,Hybrid total,64522,2023
-Schleswig-Holstein,Plug-in Hybrid,23734,2023
-Schleswig-Holstein,Sonstige,744,2023
-Schleswig-Holstein,Total,2136994,2023
-Thüringen,Benzin,908189,2023
-Thüringen,Diesel,527919,2023
-Thüringen,Gas,8189,2023
-Thüringen,Electric,17136,2023
-Thüringen,Hybrid total,45757,2023
-Thüringen,Plug-in Hybrid,13166,2023
-Thüringen,Sonstige,477,2023
-Thüringen,Total,1507667,2023
-Baden-Württemberg,Benzin,5031247,2024
-Baden-Württemberg,Diesel,2822540,2024
-Baden-Württemberg,Gas,46913,2024
-Baden-Württemberg,Electric,245218,2024
-Baden-Württemberg,Hybrid total,443820,2024
-Baden-Württemberg,Plug-in Hybrid,154035,2024
-Baden-Württemberg,Sonstige,2171,2024
-Baden-Württemberg,Total,8591909,2024
-Bayern,Benzin,6004296,2024
-Bayern,Diesel,3932095,2024
-Bayern,Gas,53144,2024
-Bayern,Electric,289207,2024
-Bayern,Hybrid total,534213,2024
-Bayern,Plug-in Hybrid,164368,2024
-Bayern,Sonstige,2882,2024
-Bayern,Total,10815837,2024
-Berlin,Benzin,955964,2024
-Berlin,Diesel,385608,2024
-Berlin,Gas,13994,2024
-Berlin,Electric,42749,2024
-Berlin,Hybrid total,103124,2024
-Berlin,Plug-in Hybrid,26888,2024
-Berlin,Sonstige,613,2024
-Berlin,Total,1502052,2024
-Brandenburg,Benzin,1142228,2024
-Brandenburg,Diesel,611426,2024
-Brandenburg,Gas,15455,2024
-Brandenburg,Electric,30067,2024
-Brandenburg,Hybrid total,72817,2024
-Brandenburg,Plug-in Hybrid,18838,2024
-Brandenburg,Sonstige,653,2024
-Brandenburg,Total,1872646,2024
-Bremen,Benzin,207983,2024
-Bremen,Diesel,111354,2024
-Bremen,Gas,2814,2024
-Bremen,Electric,7631,2024
-Bremen,Hybrid total,19044,2024
-Bremen,Plug-in Hybrid,5972,2024
-Bremen,Sonstige,225,2024
-Bremen,Total,349051,2024
-Hamburg,Benzin,552168,2024
-Hamburg,Diesel,292989,2024
-Hamburg,Gas,5405,2024
-Hamburg,Electric,33625,2024
-Hamburg,Hybrid total,71913,2024
-Hamburg,Plug-in Hybrid,25035,2024
-Hamburg,Sonstige,343,2024
-Hamburg,Total,956443,2024
-Hessen,Benzin,2767259,2024
-Hessen,Diesel,1506475,2024
-Hessen,Gas,30684,2024
-Hessen,Electric,142434,2024
-Hessen,Hybrid total,283021,2024
-Hessen,Plug-in Hybrid,95121,2024
-Hessen,Sonstige,1782,2024
-Hessen,Total,4731655,2024
-Mecklenburg-Vorpommern,Benzin,639219,2024
-Mecklenburg-Vorpommern,Diesel,417548,2024
-Mecklenburg-Vorpommern,Gas,7226,2024
-Mecklenburg-Vorpommern,Electric,14006,2024
-Mecklenburg-Vorpommern,Hybrid total,37592,2024
-Mecklenburg-Vorpommern,Plug-in Hybrid,8548,2024
-Mecklenburg-Vorpommern,Sonstige,394,2024
-Mecklenburg-Vorpommern,Total,1115985,2024
-Niedersachsen,Benzin,3428352,2024
-Niedersachsen,Diesel,2231492,2024
-Niedersachsen,Gas,51886,2024
-Niedersachsen,Electric,163737,2024
-Niedersachsen,Hybrid total,226266,2024
-Niedersachsen,Plug-in Hybrid,76376,2024
-Niedersachsen,Sonstige,2126,2024
-Niedersachsen,Total,6103859,2024
-Nordrhein-Westfalen,Benzin,7648956,2024
-Nordrhein-Westfalen,Diesel,3828399,2024
-Nordrhein-Westfalen,Gas,136623,2024
-Nordrhein-Westfalen,Electric,360964,2024
-Nordrhein-Westfalen,Hybrid total,653117,2024
-Nordrhein-Westfalen,Plug-in Hybrid,214196,2024
-Nordrhein-Westfalen,Sonstige,4003,2024
-Nordrhein-Westfalen,Total,12632062,2024
-Rheinland-Pfalz,Benzin,1924521,2024
-Rheinland-Pfalz,Diesel,1114716,2024
-Rheinland-Pfalz,Gas,19800,2024
-Rheinland-Pfalz,Electric,75598,2024
-Rheinland-Pfalz,Hybrid total,137425,2024
-Rheinland-Pfalz,Plug-in Hybrid,42583,2024
-Rheinland-Pfalz,Sonstige,845,2024
-Rheinland-Pfalz,Total,3272905,2024
-Saarland,Benzin,489135,2024
-Saarland,Diesel,238413,2024
-Saarland,Gas,3236,2024
-Saarland,Electric,16005,2024
-Saarland,Hybrid total,38143,2024
-Saarland,Plug-in Hybrid,11010,2024
-Saarland,Sonstige,251,2024
-Saarland,Total,785183,2024
-Sachsen,Benzin,1689014,2024
-Sachsen,Diesel,857919,2024
-Sachsen,Gas,16793,2024
-Sachsen,Electric,36787,2024
-Sachsen,Hybrid total,107750,2024
-Sachsen,Plug-in Hybrid,26409,2024
-Sachsen,Sonstige,1021,2024
-Sachsen,Total,2709284,2024
-Sachsen-Anhalt,Benzin,931082,2024
-Sachsen-Anhalt,Diesel,499964,2024
-Sachsen-Anhalt,Gas,9641,2024
-Sachsen-Anhalt,Electric,17828,2024
-Sachsen-Anhalt,Hybrid total,54247,2024
-Sachsen-Anhalt,Plug-in Hybrid,12712,2024
-Sachsen-Anhalt,Sonstige,704,2024
-Sachsen-Anhalt,Total,1513466,2024
-Schleswig-Holstein,Benzin,1208705,2024
-Schleswig-Holstein,Diesel,795442,2024
-Schleswig-Holstein,Gas,12248,2024
-Schleswig-Holstein,Electric,55423,2024
-Schleswig-Holstein,Hybrid total,81124,2024
-Schleswig-Holstein,Plug-in Hybrid,25522,2024
-Schleswig-Holstein,Sonstige,739,2024
-Schleswig-Holstein,Total,2153681,2024
-Thüringen,Benzin,901029,2024
-Thüringen,Diesel,523731,2024
-Thüringen,Gas,7993,2024
-Thüringen,Electric,22404,2024
-Thüringen,Hybrid total,58370,2024
-Thüringen,Plug-in Hybrid,14276,2024
-Thüringen,Sonstige,473,2024
-Thüringen,Total,1514000,2024
-Baden-Württemberg,Benzin,5000635,2025
-Baden-Württemberg,Diesel,2790414,2025
-Baden-Württemberg,Gas,45343,2025
-Baden-Württemberg,Electric,285036,2025
-Baden-Württemberg,Hybrid total,539387,2025
-Baden-Württemberg,Plug-in Hybrid,162480,2025
-Baden-Württemberg,Sonstige,2084,2025
-Baden-Württemberg,Total,8662899,2025
-Bayern,Benzin,6000504,2025
-Bayern,Diesel,3869534,2025
-Bayern,Gas,51522,2025
-Bayern,Electric,340449,2025
-Bayern,Hybrid total,642673,2025
-Bayern,Plug-in Hybrid,168409,2025
-Bayern,Sonstige,2835,2025
-Bayern,Total,10907517,2025
-Berlin,Benzin,932341,2025
-Berlin,Diesel,377302,2025
-Berlin,Gas,12969,2025
-Berlin,Electric,49028,2025
-Berlin,Hybrid total,120119,2025
-Berlin,Plug-in Hybrid,28458,2025
-Berlin,Sonstige,587,2025
-Berlin,Total,1492346,2025
-Brandenburg,Benzin,1135719,2025
-Brandenburg,Diesel,610008,2025
-Brandenburg,Gas,14901,2025
-Brandenburg,Electric,36104,2025
-Brandenburg,Hybrid total,94184,2025
-Brandenburg,Plug-in Hybrid,21779,2025
-Brandenburg,Sonstige,658,2025
-Brandenburg,Total,1891574,2025
-Bremen,Benzin,205217,2025
-Bremen,Diesel,109800,2025
-Bremen,Gas,2661,2025
-Bremen,Electric,9056,2025
-Bremen,Hybrid total,22814,2025
-Bremen,Plug-in Hybrid,6224,2025
-Bremen,Sonstige,216,2025
-Bremen,Total,349764,2025
-Hamburg,Benzin,541454,2025
-Hamburg,Diesel,284530,2025
-Hamburg,Gas,5031,2025
-Hamburg,Electric,39679,2025
-Hamburg,Hybrid total,84395,2025
-Hamburg,Plug-in Hybrid,24185,2025
-Hamburg,Sonstige,335,2025
-Hamburg,Total,955424,2025
-Hessen,Benzin,2741052,2025
-Hessen,Diesel,1486394,2025
-Hessen,Gas,29435,2025
-Hessen,Electric,155180,2025
-Hessen,Hybrid total,332866,2025
-Hessen,Plug-in Hybrid,92621,2025
-Hessen,Sonstige,1669,2025
-Hessen,Total,4746596,2025
-Mecklenburg-Vorpommern,Benzin,636163,2025
-Mecklenburg-Vorpommern,Diesel,415009,2025
-Mecklenburg-Vorpommern,Gas,7192,2025
-Mecklenburg-Vorpommern,Electric,16420,2025
-Mecklenburg-Vorpommern,Hybrid total,48901,2025
-Mecklenburg-Vorpommern,Plug-in Hybrid,9925,2025
-Mecklenburg-Vorpommern,Sonstige,383,2025
-Mecklenburg-Vorpommern,Total,1124068,2025
-Niedersachsen,Benzin,3402328,2025
-Niedersachsen,Diesel,2217247,2025
-Niedersachsen,Gas,48962,2025
-Niedersachsen,Electric,188925,2025
-Niedersachsen,Hybrid total,285125,2025
-Niedersachsen,Plug-in Hybrid,83052,2025
-Niedersachsen,Sonstige,2161,2025
-Niedersachsen,Total,6144748,2025
-Nordrhein-Westfalen,Benzin,7597293,2025
-Nordrhein-Westfalen,Diesel,3779667,2025
-Nordrhein-Westfalen,Gas,130256,2025
-Nordrhein-Westfalen,Electric,428917,2025
-Nordrhein-Westfalen,Hybrid total,797680,2025
-Nordrhein-Westfalen,Plug-in Hybrid,225804,2025
-Nordrhein-Westfalen,Sonstige,3923,2025
-Nordrhein-Westfalen,Total,12737736,2025
-Rheinland-Pfalz,Benzin,1917003,2025
-Rheinland-Pfalz,Diesel,1099912,2025
-Rheinland-Pfalz,Gas,19282,2025
-Rheinland-Pfalz,Electric,89275,2025
-Rheinland-Pfalz,Hybrid total,172210,2025
-Rheinland-Pfalz,Plug-in Hybrid,46006,2025
-Rheinland-Pfalz,Sonstige,800,2025
-Rheinland-Pfalz,Total,3298482,2025
-Saarland,Benzin,486209,2025
-Saarland,Diesel,233578,2025
-Saarland,Gas,3237,2025
-Saarland,Electric,18493,2025
-Saarland,Hybrid total,46987,2025
-Saarland,Plug-in Hybrid,11603,2025
-Saarland,Sonstige,237,2025
-Saarland,Total,788741,2025
-Sachsen,Benzin,1677006,2025
-Sachsen,Diesel,851181,2025
-Sachsen,Gas,16388,2025
-Sachsen,Electric,42539,2025
-Sachsen,Hybrid total,134986,2025
-Sachsen,Plug-in Hybrid,28819,2025
-Sachsen,Sonstige,998,2025
-Sachsen,Total,2723098,2025
-Sachsen-Anhalt,Benzin,922621,2025
-Sachsen-Anhalt,Diesel,497545,2025
-Sachsen-Anhalt,Gas,9447,2025
-Sachsen-Anhalt,Electric,20999,2025
-Sachsen-Anhalt,Hybrid total,70303,2025
-Sachsen-Anhalt,Plug-in Hybrid,14681,2025
-Sachsen-Anhalt,Sonstige,696,2025
-Sachsen-Anhalt,Total,1521611,2025
-Schleswig-Holstein,Benzin,1199902,2025
-Schleswig-Holstein,Diesel,790352,2025
-Schleswig-Holstein,Gas,11716,2025
-Schleswig-Holstein,Electric,64749,2025
-Schleswig-Holstein,Hybrid total,102646,2025
-Schleswig-Holstein,Plug-in Hybrid,27992,2025
-Schleswig-Holstein,Sonstige,720,2025
-Schleswig-Holstein,Total,2170085,2025
-Thüringen,Benzin,893556,2025
-Thüringen,Diesel,518676,2025
-Thüringen,Gas,7818,2025
-Thüringen,Electric,23915,2025
-Thüringen,Hybrid total,73958,2025
-Thüringen,Plug-in Hybrid,15529,2025
-Thüringen,Sonstige,449,2025
-Thüringen,Total,1518372,2025
+index,land,fuel,total_cars,year
+0,Baden-Württemberg,Gasoline,5003238,2019
+1,Baden-Württemberg,Diesel,2984960,2019
+2,Baden-Württemberg,Gas,49062,2019
+3,Baden-Württemberg,Electric,19508,2019
+4,Baden-Württemberg,Hybrid total,52055,2019
+5,Baden-Württemberg,Plug-in Hybrid,12718,2019
+6,Baden-Württemberg,Sonstige,2319,2019
+7,Baden-Württemberg,Total,8111142,2019
+8,Bayern,Gasoline,5971088,2019
+9,Bayern,Diesel,4030719,2019
+10,Bayern,Gas,59528,2019
+11,Bayern,Electric,24147,2019
+12,Bayern,Hybrid total,62173,2019
+13,Bayern,Plug-in Hybrid,14493,2019
+14,Bayern,Sonstige,2953,2019
+15,Bayern,Total,10150608,2019
+16,Berlin,Gasoline,987176,2019
+17,Berlin,Diesel,408335,2019
+18,Berlin,Gas,17043,2019
+19,Berlin,Electric,3293,2019
+20,Berlin,Hybrid total,17846,2019
+21,Berlin,Plug-in Hybrid,2244,2019
+22,Berlin,Sonstige,448,2019
+23,Berlin,Total,1434141,2019
+24,Brandenburg,Gasoline,1140264,2019
+25,Brandenburg,Diesel,588735,2019
+26,Brandenburg,Gas,17603,2019
+27,Brandenburg,Electric,2090,2019
+28,Brandenburg,Hybrid total,10560,2019
+29,Brandenburg,Plug-in Hybrid,1268,2019
+30,Brandenburg,Sonstige,668,2019
+31,Brandenburg,Total,1759920,2019
+32,Bremen,Gasoline,216958,2019
+33,Bremen,Diesel,113496,2019
+34,Bremen,Gas,3519,2019
+35,Bremen,Electric,546,2019
+36,Bremen,Hybrid total,2536,2019
+37,Bremen,Plug-in Hybrid,385,2019
+38,Bremen,Sonstige,116,2019
+39,Bremen,Total,337171,2019
+40,Hamburg,Gasoline,579451,2019
+41,Hamburg,Diesel,324255,2019
+42,Hamburg,Gas,6354,2019
+43,Hamburg,Electric,2606,2019
+44,Hamburg,Hybrid total,8398,2019
+45,Hamburg,Plug-in Hybrid,1703,2019
+46,Hamburg,Sonstige,290,2019
+47,Hamburg,Total,921354,2019
+48,Hessen,Gasoline,2781116,2019
+49,Hessen,Diesel,1578142,2019
+50,Hessen,Gas,35299,2019
+51,Hessen,Electric,8047,2019
+52,Hessen,Hybrid total,29449,2019
+53,Hessen,Plug-in Hybrid,5621,2019
+54,Hessen,Sonstige,1633,2019
+55,Hessen,Total,4433686,2019
+56,Mecklenburg-Vorpommern,Gasoline,644656,2019
+57,Mecklenburg-Vorpommern,Diesel,396334,2019
+58,Mecklenburg-Vorpommern,Gas,8215,2019
+59,Mecklenburg-Vorpommern,Electric,804,2019
+60,Mecklenburg-Vorpommern,Hybrid total,4716,2019
+61,Mecklenburg-Vorpommern,Plug-in Hybrid,541,2019
+62,Mecklenburg-Vorpommern,Sonstige,451,2019
+63,Mecklenburg-Vorpommern,Total,1055176,2019
+64,Niedersachsen,Gasoline,3474047,2019
+65,Niedersachsen,Diesel,2185851,2019
+66,Niedersachsen,Gas,66479,2019
+67,Niedersachsen,Electric,8753,2019
+68,Niedersachsen,Hybrid total,26941,2019
+69,Niedersachsen,Plug-in Hybrid,6203,2019
+70,Niedersachsen,Sonstige,1905,2019
+71,Niedersachsen,Total,5763976,2019
+72,Nordrhein-Westfalen,Gasoline,7675623,2019
+73,Nordrhein-Westfalen,Diesel,3956719,2019
+74,Nordrhein-Westfalen,Gas,163300,2019
+75,Nordrhein-Westfalen,Electric,27660,2019
+76,Nordrhein-Westfalen,Hybrid total,69900,2019
+77,Nordrhein-Westfalen,Plug-in Hybrid,13074,2019
+78,Nordrhein-Westfalen,Sonstige,3587,2019
+79,Nordrhein-Westfalen,Total,11896789,2019
+80,Rheinland-Pfalz,Gasoline,1913593,2019
+81,Rheinland-Pfalz,Diesel,1133940,2019
+82,Rheinland-Pfalz,Gas,22193,2019
+83,Rheinland-Pfalz,Electric,4433,2019
+84,Rheinland-Pfalz,Hybrid total,15575,2019
+85,Rheinland-Pfalz,Plug-in Hybrid,2841,2019
+86,Rheinland-Pfalz,Sonstige,888,2019
+87,Rheinland-Pfalz,Total,3090622,2019
+88,Saarland,Gasoline,493830,2019
+89,Saarland,Diesel,252123,2019
+90,Saarland,Gas,3499,2019
+91,Saarland,Electric,875,2019
+92,Saarland,Hybrid total,4999,2019
+93,Saarland,Plug-in Hybrid,567,2019
+94,Saarland,Sonstige,267,2019
+95,Saarland,Total,755593,2019
+96,Sachsen,Gasoline,1734463,2019
+97,Sachsen,Diesel,833125,2019
+98,Sachsen,Gas,18867,2019
+99,Sachsen,Electric,2947,2019
+100,Sachsen,Hybrid total,14283,2019
+101,Sachsen,Plug-in Hybrid,1643,2019
+102,Sachsen,Sonstige,1148,2019
+103,Sachsen,Total,2604833,2019
+104,Sachsen-Anhalt,Gasoline,961743,2019
+105,Sachsen-Anhalt,Diesel,487718,2019
+106,Sachsen-Anhalt,Gas,11377,2019
+107,Sachsen-Anhalt,Electric,1093,2019
+108,Sachsen-Anhalt,Hybrid total,6862,2019
+109,Sachsen-Anhalt,Plug-in Hybrid,877,2019
+110,Sachsen-Anhalt,Sonstige,706,2019
+111,Sachsen-Anhalt,Total,1469499,2019
+112,Schleswig-Holstein,Gasoline,1218086,2019
+113,Schleswig-Holstein,Diesel,777605,2019
+114,Schleswig-Holstein,Gas,14951,2019
+115,Schleswig-Holstein,Electric,3796,2019
+116,Schleswig-Holstein,Hybrid total,9865,2019
+117,Schleswig-Holstein,Plug-in Hybrid,1837,2019
+118,Schleswig-Holstein,Sonstige,617,2019
+119,Schleswig-Holstein,Total,2024920,2019
+120,Thüringen,Gasoline,927970,2019
+121,Thüringen,Diesel,520547,2019
+122,Thüringen,Gas,10257,2019
+123,Thüringen,Electric,1441,2019
+124,Thüringen,Hybrid total,6211,2019
+125,Thüringen,Plug-in Hybrid,957,2019
+126,Thüringen,Sonstige,513,2019
+127,Thüringen,Total,1466939,2019
+144,Baden-Württemberg,Gasoline,5109529,2020
+145,Baden-Württemberg,Diesel,2962923,2020
+146,Baden-Württemberg,Gas,48629,2020
+147,Baden-Württemberg,Electric,29461,2020
+148,Baden-Württemberg,Hybrid total,84229,2020
+149,Baden-Württemberg,Plug-in Hybrid,19082,2020
+150,Baden-Württemberg,Sonstige,2219,2020
+151,Baden-Württemberg,Total,8236990,2020
+152,Bayern,Gasoline,6057786,2020
+153,Bayern,Diesel,4072512,2020
+154,Bayern,Gas,57089,2020
+155,Bayern,Electric,35742,2020
+156,Bayern,Hybrid total,102026,2020
+157,Bayern,Plug-in Hybrid,21884,2020
+158,Bayern,Sonstige,2937,2020
+159,Bayern,Total,10328092,2020
+160,Berlin,Gasoline,1000384,2020
+161,Berlin,Diesel,403994,2020
+162,Berlin,Gas,16540,2020
+163,Berlin,Electric,5871,2020
+164,Berlin,Hybrid total,25377,2020
+165,Berlin,Plug-in Hybrid,3539,2020
+166,Berlin,Sonstige,468,2020
+167,Berlin,Total,1452634,2020
+168,Brandenburg,Gasoline,1151268,2020
+169,Brandenburg,Diesel,598442,2020
+170,Brandenburg,Gas,16952,2020
+171,Brandenburg,Electric,3037,2020
+172,Brandenburg,Hybrid total,14965,2020
+173,Brandenburg,Plug-in Hybrid,2019,2020
+174,Brandenburg,Sonstige,659,2020
+175,Brandenburg,Total,1785323,2020
+176,Bremen,Gasoline,217852,2020
+177,Bremen,Diesel,113309,2020
+178,Bremen,Gas,3371,2020
+179,Bremen,Electric,870,2020
+180,Bremen,Hybrid total,3851,2020
+181,Bremen,Plug-in Hybrid,593,2020
+182,Bremen,Sonstige,121,2020
+183,Bremen,Total,339374,2020
+184,Hamburg,Gasoline,586399,2020
+185,Hamburg,Diesel,323156,2020
+186,Hamburg,Gas,6106,2020
+187,Hamburg,Electric,3954,2020
+188,Hamburg,Hybrid total,15433,2020
+189,Hamburg,Plug-in Hybrid,2519,2020
+190,Hamburg,Sonstige,287,2020
+191,Hamburg,Total,935335,2020
+192,Hessen,Gasoline,2835364,2020
+193,Hessen,Diesel,1565554,2020
+194,Hessen,Gas,34314,2020
+195,Hessen,Electric,12663,2020
+196,Hessen,Hybrid total,48391,2020
+197,Hessen,Plug-in Hybrid,9069,2020
+198,Hessen,Sonstige,1578,2020
+199,Hessen,Total,4497864,2020
+200,Mecklenburg-Vorpommern,Gasoline,646559,2020
+201,Mecklenburg-Vorpommern,Diesel,406022,2020
+202,Mecklenburg-Vorpommern,Gas,7833,2020
+203,Mecklenburg-Vorpommern,Electric,1270,2020
+204,Mecklenburg-Vorpommern,Hybrid total,7066,2020
+205,Mecklenburg-Vorpommern,Plug-in Hybrid,873,2020
+206,Mecklenburg-Vorpommern,Sonstige,388,2020
+207,Mecklenburg-Vorpommern,Total,1069138,2020
+208,Niedersachsen,Gasoline,3504515,2020
+209,Niedersachsen,Diesel,2227835,2020
+210,Niedersachsen,Gas,61826,2020
+211,Niedersachsen,Electric,14885,2020
+212,Niedersachsen,Hybrid total,40597,2020
+213,Niedersachsen,Plug-in Hybrid,8105,2020
+214,Niedersachsen,Sonstige,1874,2020
+215,Niedersachsen,Total,5851532,2020
+216,Nordrhein-Westfalen,Gasoline,7832856,2020
+217,Nordrhein-Westfalen,Diesel,3935940,2020
+218,Nordrhein-Westfalen,Gas,157996,2020
+219,Nordrhein-Westfalen,Electric,43333,2020
+220,Nordrhein-Westfalen,Hybrid total,112476,2020
+221,Nordrhein-Westfalen,Plug-in Hybrid,21063,2020
+222,Nordrhein-Westfalen,Sonstige,3559,2020
+223,Nordrhein-Westfalen,Total,12086160,2020
+224,Rheinland-Pfalz,Gasoline,1943016,2020
+225,Rheinland-Pfalz,Diesel,1141671,2020
+226,Rheinland-Pfalz,Gas,21310,2020
+227,Rheinland-Pfalz,Electric,6924,2020
+228,Rheinland-Pfalz,Hybrid total,23905,2020
+229,Rheinland-Pfalz,Plug-in Hybrid,4348,2020
+230,Rheinland-Pfalz,Sonstige,914,2020
+231,Rheinland-Pfalz,Total,3137740,2020
+232,Saarland,Gasoline,499377,2020
+233,Saarland,Diesel,252505,2020
+234,Saarland,Gas,3334,2020
+235,Saarland,Electric,1311,2020
+236,Saarland,Hybrid total,7180,2020
+237,Saarland,Plug-in Hybrid,915,2020
+238,Saarland,Sonstige,260,2020
+239,Saarland,Total,763967,2020
+240,Sachsen,Gasoline,1738702,2020
+241,Sachsen,Diesel,848051,2020
+242,Sachsen,Gas,17800,2020
+243,Sachsen,Electric,4151,2020
+244,Sachsen,Hybrid total,20800,2020
+245,Sachsen,Plug-in Hybrid,2523,2020
+246,Sachsen,Sonstige,1109,2020
+247,Sachsen,Total,2630613,2020
+248,Sachsen-Anhalt,Gasoline,962424,2020
+249,Sachsen-Anhalt,Diesel,495096,2020
+250,Sachsen-Anhalt,Gas,10553,2020
+251,Sachsen-Anhalt,Electric,1641,2020
+252,Sachsen-Anhalt,Hybrid total,10104,2020
+253,Sachsen-Anhalt,Plug-in Hybrid,1258,2020
+254,Sachsen-Anhalt,Sonstige,690,2020
+255,Sachsen-Anhalt,Total,1480508,2020
+256,Schleswig-Holstein,Gasoline,1231315,2020
+257,Schleswig-Holstein,Diesel,790089,2020
+258,Schleswig-Holstein,Gas,13925,2020
+259,Schleswig-Holstein,Electric,5822,2020
+260,Schleswig-Holstein,Hybrid total,15055,2020
+261,Schleswig-Holstein,Plug-in Hybrid,2898,2020
+262,Schleswig-Holstein,Sonstige,625,2020
+263,Schleswig-Holstein,Total,2056831,2020
+264,Thüringen,Gasoline,927978,2020
+265,Thüringen,Diesel,527554,2020
+266,Thüringen,Gas,9260,2020
+267,Thüringen,Electric,3584,2020
+268,Thüringen,Hybrid total,9445,2020
+269,Thüringen,Plug-in Hybrid,1446,2020
+270,Thüringen,Sonstige,505,2020
+271,Thüringen,Total,1478326,2020
+288,Baden-Württemberg,Gasoline,5152920,2021
+289,Baden-Württemberg,Diesel,2942115,2021
+290,Baden-Württemberg,Gas,47878,2021
+291,Baden-Württemberg,Electric,59836,2021
+292,Baden-Württemberg,Hybrid total,155449,2021
+293,Baden-Württemberg,Plug-in Hybrid,51907,2021
+294,Baden-Württemberg,Sonstige,2189,2021
+295,Baden-Württemberg,Total,8360387,2021
+296,Bayern,Gasoline,6070946,2021
+297,Bayern,Diesel,4078818,2021
+298,Bayern,Gas,54741,2021
+299,Bayern,Electric,66015,2021
+300,Bayern,Hybrid total,189501,2021
+301,Bayern,Plug-in Hybrid,52092,2021
+302,Bayern,Sonstige,2913,2021
+303,Bayern,Total,10462934,2021
+304,Berlin,Gasoline,1007500,2021
+305,Berlin,Diesel,400217,2021
+306,Berlin,Gas,16018,2021
+307,Berlin,Electric,10558,2021
+308,Berlin,Hybrid total,39704,2021
+309,Berlin,Plug-in Hybrid,9120,2021
+310,Berlin,Sonstige,490,2021
+311,Berlin,Total,1474487,2021
+312,Brandenburg,Gasoline,1158214,2021
+313,Brandenburg,Diesel,610402,2021
+314,Brandenburg,Gas,16352,2021
+315,Brandenburg,Electric,6549,2021
+316,Brandenburg,Hybrid total,25660,2021
+317,Brandenburg,Plug-in Hybrid,5329,2021
+318,Brandenburg,Sonstige,651,2021
+319,Brandenburg,Total,1817828,2021
+320,Bremen,Gasoline,218013,2021
+321,Bremen,Diesel,113614,2021
+322,Bremen,Gas,3215,2021
+323,Bremen,Electric,1663,2021
+324,Bremen,Hybrid total,7012,2021
+325,Bremen,Plug-in Hybrid,2012,2021
+326,Bremen,Sonstige,120,2021
+327,Bremen,Total,343637,2021
+328,Hamburg,Gasoline,579925,2021
+329,Hamburg,Diesel,325684,2021
+330,Hamburg,Gas,5879,2021
+331,Hamburg,Electric,8490,2021
+332,Hamburg,Hybrid total,23659,2021
+333,Hamburg,Plug-in Hybrid,7360,2021
+334,Hamburg,Sonstige,280,2021
+335,Hamburg,Total,943917,2021
+336,Hessen,Gasoline,2831638,2021
+337,Hessen,Diesel,1553174,2021
+338,Hessen,Gas,32954,2021
+339,Hessen,Electric,26834,2021
+340,Hessen,Hybrid total,89887,2021
+341,Hessen,Plug-in Hybrid,24811,2021
+342,Hessen,Sonstige,1573,2021
+343,Hessen,Total,4536060,2021
+344,Mecklenburg-Vorpommern,Gasoline,649340,2021
+345,Mecklenburg-Vorpommern,Diesel,415482,2021
+346,Mecklenburg-Vorpommern,Gas,7605,2021
+347,Mecklenburg-Vorpommern,Electric,3028,2021
+348,Mecklenburg-Vorpommern,Hybrid total,12629,2021
+349,Mecklenburg-Vorpommern,Plug-in Hybrid,2321,2021
+350,Mecklenburg-Vorpommern,Sonstige,424,2021
+351,Mecklenburg-Vorpommern,Total,1088508,2021
+352,Niedersachsen,Gasoline,3511265,2021
+353,Niedersachsen,Diesel,2252280,2021
+354,Niedersachsen,Gas,57786,2021
+355,Niedersachsen,Electric,39243,2021
+356,Niedersachsen,Hybrid total,82212,2021
+357,Niedersachsen,Plug-in Hybrid,26048,2021
+358,Niedersachsen,Sonstige,1933,2021
+359,Niedersachsen,Total,5944719,2021
+360,Nordrhein-Westfalen,Gasoline,7872984,2021
+361,Nordrhein-Westfalen,Diesel,3949018,2021
+362,Nordrhein-Westfalen,Gas,150650,2021
+363,Nordrhein-Westfalen,Electric,85554,2021
+364,Nordrhein-Westfalen,Hybrid total,221801,2021
+365,Nordrhein-Westfalen,Plug-in Hybrid,61722,2021
+366,Nordrhein-Westfalen,Sonstige,3674,2021
+367,Nordrhein-Westfalen,Total,12283681,2021
+368,Rheinland-Pfalz,Gasoline,1958913,2021
+369,Rheinland-Pfalz,Diesel,1148089,2021
+370,Rheinland-Pfalz,Gas,20465,2021
+371,Rheinland-Pfalz,Electric,15051,2021
+372,Rheinland-Pfalz,Hybrid total,44628,2021
+373,Rheinland-Pfalz,Plug-in Hybrid,11917,2021
+374,Rheinland-Pfalz,Sonstige,906,2021
+375,Rheinland-Pfalz,Total,3188052,2021
+376,Saarland,Gasoline,501759,2021
+377,Saarland,Diesel,251640,2021
+378,Saarland,Gas,3205,2021
+379,Saarland,Electric,3184,2021
+380,Saarland,Hybrid total,12670,2021
+381,Saarland,Plug-in Hybrid,2531,2021
+382,Saarland,Sonstige,270,2021
+383,Saarland,Total,772728,2021
+384,Sachsen,Gasoline,1736699,2021
+385,Sachsen,Diesel,861729,2021
+386,Sachsen,Gas,16997,2021
+387,Sachsen,Electric,8914,2021
+388,Sachsen,Hybrid total,37224,2021
+389,Sachsen,Plug-in Hybrid,7168,2021
+390,Sachsen,Sonstige,1067,2021
+391,Sachsen,Total,2662630,2021
+392,Sachsen-Anhalt,Gasoline,959857,2021
+393,Sachsen-Anhalt,Diesel,502806,2021
+394,Sachsen-Anhalt,Gas,10061,2021
+395,Sachsen-Anhalt,Electric,3790,2021
+396,Sachsen-Anhalt,Hybrid total,18417,2021
+397,Sachsen-Anhalt,Plug-in Hybrid,3459,2021
+398,Sachsen-Anhalt,Sonstige,688,2021
+399,Sachsen-Anhalt,Total,1495619,2021
+400,Schleswig-Holstein,Gasoline,1237428,2021
+401,Schleswig-Holstein,Diesel,803547,2021
+402,Schleswig-Holstein,Gas,13177,2021
+403,Schleswig-Holstein,Electric,13246,2021
+404,Schleswig-Holstein,Hybrid total,27984,2021
+405,Schleswig-Holstein,Plug-in Hybrid,7843,2021
+406,Schleswig-Holstein,Sonstige,657,2021
+407,Schleswig-Holstein,Total,2096039,2021
+408,Thüringen,Gasoline,926322,2021
+409,Thüringen,Diesel,533726,2021
+410,Thüringen,Gas,8521,2021
+411,Thüringen,Electric,6153,2021
+412,Thüringen,Hybrid total,18671,2021
+413,Thüringen,Plug-in Hybrid,4069,2021
+414,Thüringen,Sonstige,469,2021
+415,Thüringen,Total,1493862,2021
+432,Baden-Württemberg,Gasoline,5113327,2022
+433,Baden-Württemberg,Diesel,2906296,2022
+434,Baden-Württemberg,Gas,47503,2022
+435,Baden-Württemberg,Electric,112908,2022
+436,Baden-Württemberg,Hybrid total,253950,2022
+437,Baden-Württemberg,Plug-in Hybrid,99195,2022
+438,Baden-Württemberg,Sonstige,2213,2022
+439,Baden-Württemberg,Total,8436197,2022
+440,Bayern,Gasoline,6038753,2022
+441,Bayern,Diesel,4049623,2022
+442,Bayern,Gas,53846,2022
+443,Bayern,Electric,123887,2022
+444,Bayern,Hybrid total,312224,2022
+445,Bayern,Plug-in Hybrid,102047,2022
+446,Bayern,Sonstige,2900,2022
+447,Bayern,Total,10581233,2022
+448,Berlin,Gasoline,996089,2022
+449,Berlin,Diesel,397924,2022
+450,Berlin,Gas,15359,2022
+451,Berlin,Electric,18659,2022
+452,Berlin,Hybrid total,60907,2022
+453,Berlin,Plug-in Hybrid,17519,2022
+454,Berlin,Sonstige,520,2022
+455,Berlin,Total,1489458,2022
+456,Brandenburg,Gasoline,1155449,2022
+457,Brandenburg,Diesel,615770,2022
+458,Brandenburg,Gas,15956,2022
+459,Brandenburg,Electric,13147,2022
+460,Brandenburg,Hybrid total,41523,2022
+461,Brandenburg,Plug-in Hybrid,11208,2022
+462,Brandenburg,Sonstige,635,2022
+463,Brandenburg,Total,1842480,2022
+464,Bremen,Gasoline,215040,2022
+465,Bremen,Diesel,113166,2022
+466,Bremen,Gas,3081,2022
+467,Bremen,Electric,3264,2022
+468,Bremen,Hybrid total,11308,2022
+469,Bremen,Plug-in Hybrid,3803,2022
+470,Bremen,Sonstige,150,2022
+471,Bremen,Total,346009,2022
+472,Hamburg,Gasoline,577298,2022
+473,Hamburg,Diesel,319054,2022
+474,Hamburg,Gas,5696,2022
+475,Hamburg,Electric,14880,2022
+476,Hamburg,Hybrid total,39327,2022
+477,Hamburg,Plug-in Hybrid,14517,2022
+478,Hamburg,Sonstige,283,2022
+479,Hamburg,Total,956538,2022
+480,Hessen,Gasoline,2815795,2022
+481,Hessen,Diesel,1542543,2022
+482,Hessen,Gas,32328,2022
+483,Hessen,Electric,59374,2022
+484,Hessen,Hybrid total,154558,2022
+485,Hessen,Plug-in Hybrid,53604,2022
+486,Hessen,Sonstige,1549,2022
+487,Hessen,Total,4606147,2022
+488,Mecklenburg-Vorpommern,Gasoline,645586,2022
+489,Mecklenburg-Vorpommern,Diesel,420472,2022
+490,Mecklenburg-Vorpommern,Gas,7465,2022
+491,Mecklenburg-Vorpommern,Electric,6120,2022
+492,Mecklenburg-Vorpommern,Hybrid total,20836,2022
+493,Mecklenburg-Vorpommern,Plug-in Hybrid,4724,2022
+494,Mecklenburg-Vorpommern,Sonstige,443,2022
+495,Mecklenburg-Vorpommern,Total,1100922,2022
+496,Niedersachsen,Gasoline,3484728,2022
+497,Niedersachsen,Diesel,2263300,2022
+498,Niedersachsen,Gas,55412,2022
+499,Niedersachsen,Electric,71383,2022
+500,Niedersachsen,Hybrid total,132882,2022
+501,Niedersachsen,Plug-in Hybrid,49262,2022
+502,Niedersachsen,Sonstige,2078,2022
+503,Niedersachsen,Total,6009783,2022
+504,Nordrhein-Westfalen,Gasoline,7789013,2022
+505,Nordrhein-Westfalen,Diesel,3926642,2022
+506,Nordrhein-Westfalen,Gas,145083,2022
+507,Nordrhein-Westfalen,Electric,161162,2022
+508,Nordrhein-Westfalen,Hybrid total,376882,2022
+509,Nordrhein-Westfalen,Plug-in Hybrid,131305,2022
+510,Nordrhein-Westfalen,Sonstige,3830,2022
+511,Nordrhein-Westfalen,Total,12402612,2022
+512,Rheinland-Pfalz,Gasoline,1945645,2022
+513,Rheinland-Pfalz,Diesel,1143415,2022
+514,Rheinland-Pfalz,Gas,20075,2022
+515,Rheinland-Pfalz,Electric,31580,2022
+516,Rheinland-Pfalz,Hybrid total,77285,2022
+517,Rheinland-Pfalz,Plug-in Hybrid,25562,2022
+518,Rheinland-Pfalz,Sonstige,886,2022
+519,Rheinland-Pfalz,Total,3218886,2022
+520,Saarland,Gasoline,496867,2022
+521,Saarland,Diesel,248390,2022
+522,Saarland,Gas,3191,2022
+523,Saarland,Electric,6585,2022
+524,Saarland,Hybrid total,21396,2022
+525,Saarland,Plug-in Hybrid,6023,2022
+526,Saarland,Sonstige,265,2022
+527,Saarland,Total,776694,2022
+528,Sachsen,Gasoline,1717970,2022
+529,Sachsen,Diesel,868313,2022
+530,Sachsen,Gas,16808,2022
+531,Sachsen,Electric,16902,2022
+532,Sachsen,Hybrid total,61572,2022
+533,Sachsen,Plug-in Hybrid,15483,2022
+534,Sachsen,Sonstige,1046,2022
+535,Sachsen,Total,2682611,2022
+536,Sachsen-Anhalt,Gasoline,947556,2022
+537,Sachsen-Anhalt,Diesel,506530,2022
+538,Sachsen-Anhalt,Gas,9872,2022
+539,Sachsen-Anhalt,Electric,7702,2022
+540,Sachsen-Anhalt,Hybrid total,30977,2022
+541,Sachsen-Anhalt,Plug-in Hybrid,7396,2022
+542,Sachsen-Anhalt,Sonstige,732,2022
+543,Sachsen-Anhalt,Total,1503369,2022
+544,Schleswig-Holstein,Gasoline,1228776,2022
+545,Schleswig-Holstein,Diesel,807341,2022
+546,Schleswig-Holstein,Gas,12966,2022
+547,Schleswig-Holstein,Electric,26098,2022
+548,Schleswig-Holstein,Hybrid total,47200,2022
+549,Schleswig-Holstein,Plug-in Hybrid,15999,2022
+550,Schleswig-Holstein,Sonstige,747,2022
+551,Schleswig-Holstein,Total,2123128,2022
+552,Thüringen,Gasoline,916453,2022
+553,Thüringen,Diesel,534611,2022
+554,Thüringen,Gas,8156,2022
+555,Thüringen,Electric,9636,2022
+556,Thüringen,Hybrid total,32220,2022
+557,Thüringen,Plug-in Hybrid,8285,2022
+558,Thüringen,Sonstige,470,2022
+559,Thüringen,Total,1501546,2022
+576,Baden-Württemberg,Gasoline,5066772,2023
+577,Baden-Württemberg,Diesel,2856117,2023
+578,Baden-Württemberg,Gas,48021,2023
+579,Baden-Württemberg,Electric,177930,2023
+580,Baden-Württemberg,Hybrid total,351320,2023
+581,Baden-Württemberg,Plug-in Hybrid,143016,2023
+582,Baden-Württemberg,Sonstige,2215,2023
+583,Baden-Württemberg,Total,8502375,2023
+584,Bayern,Gasoline,6005725,2023
+585,Bayern,Diesel,3996524,2023
+586,Bayern,Gas,54081,2023
+587,Bayern,Electric,208318,2023
+588,Bayern,Hybrid total,433938,2023
+589,Bayern,Plug-in Hybrid,155657,2023
+590,Bayern,Sonstige,2922,2023
+591,Bayern,Total,10701508,2023
+592,Berlin,Gasoline,975320,2023
+593,Berlin,Diesel,390253,2023
+594,Berlin,Gas,14892,2023
+595,Berlin,Electric,32714,2023
+596,Berlin,Hybrid total,84189,2023
+597,Berlin,Plug-in Hybrid,25782,2023
+598,Berlin,Sonstige,567,2023
+599,Berlin,Total,1497935,2023
+600,Brandenburg,Gasoline,1147710,2023
+601,Brandenburg,Diesel,612064,2023
+602,Brandenburg,Gas,15932,2023
+603,Brandenburg,Electric,21933,2023
+604,Brandenburg,Hybrid total,57386,2023
+605,Brandenburg,Plug-in Hybrid,17273,2023
+606,Brandenburg,Sonstige,642,2023
+607,Brandenburg,Total,1855667,2023
+608,Bremen,Gasoline,211312,2023
+609,Bremen,Diesel,111609,2023
+610,Bremen,Gas,3014,2023
+611,Bremen,Electric,5446,2023
+612,Bremen,Hybrid total,15441,2023
+613,Bremen,Plug-in Hybrid,5587,2023
+614,Bremen,Sonstige,200,2023
+615,Bremen,Total,347022,2023
+616,Hamburg,Gasoline,561728,2023
+617,Hamburg,Diesel,306731,2023
+618,Hamburg,Gas,5630,2023
+619,Hamburg,Electric,23517,2023
+620,Hamburg,Hybrid total,59553,2023
+621,Hamburg,Plug-in Hybrid,24131,2023
+622,Hamburg,Sonstige,324,2023
+623,Hamburg,Total,957483,2023
+624,Hessen,Gasoline,2785550,2023
+625,Hessen,Diesel,1519612,2023
+626,Hessen,Gas,32019,2023
+627,Hessen,Electric,107291,2023
+628,Hessen,Hybrid total,223680,2023
+629,Hessen,Plug-in Hybrid,87468,2023
+630,Hessen,Sonstige,1781,2023
+631,Hessen,Total,4669933,2023
+632,Mecklenburg-Vorpommern,Gasoline,642239,2023
+633,Mecklenburg-Vorpommern,Diesel,417970,2023
+634,Mecklenburg-Vorpommern,Gas,7448,2023
+635,Mecklenburg-Vorpommern,Electric,10290,2023
+636,Mecklenburg-Vorpommern,Hybrid total,29274,2023
+637,Mecklenburg-Vorpommern,Plug-in Hybrid,7531,2023
+638,Mecklenburg-Vorpommern,Sonstige,418,2023
+639,Mecklenburg-Vorpommern,Total,1107639,2023
+640,Niedersachsen,Gasoline,3455373,2023
+641,Niedersachsen,Diesel,2239452,2023
+642,Niedersachsen,Gas,54225,2023
+643,Niedersachsen,Electric,115272,2023
+644,Niedersachsen,Hybrid total,183207,2023
+645,Niedersachsen,Plug-in Hybrid,72861,2023
+646,Niedersachsen,Sonstige,2098,2023
+647,Niedersachsen,Total,6049627,2023
+648,Nordrhein-Westfalen,Gasoline,7700957,2023
+649,Nordrhein-Westfalen,Diesel,3866600,2023
+650,Nordrhein-Westfalen,Gas,142083,2023
+651,Nordrhein-Westfalen,Electric,266568,2023
+652,Nordrhein-Westfalen,Hybrid total,529667,2023
+653,Nordrhein-Westfalen,Plug-in Hybrid,202812,2023
+654,Nordrhein-Westfalen,Sonstige,4002,2023
+655,Nordrhein-Westfalen,Total,12509877,2023
+656,Rheinland-Pfalz,Gasoline,1933252,2023
+657,Rheinland-Pfalz,Diesel,1126495,2023
+658,Rheinland-Pfalz,Gas,20169,2023
+659,Rheinland-Pfalz,Electric,56018,2023
+660,Rheinland-Pfalz,Hybrid total,109410,2023
+661,Rheinland-Pfalz,Plug-in Hybrid,39881,2023
+662,Rheinland-Pfalz,Sonstige,889,2023
+663,Rheinland-Pfalz,Total,3246233,2023
+664,Saarland,Gasoline,492088,2023
+665,Saarland,Diesel,242484,2023
+666,Saarland,Gas,3270,2023
+667,Saarland,Electric,12564,2023
+668,Saarland,Hybrid total,30747,2023
+669,Saarland,Plug-in Hybrid,10242,2023
+670,Saarland,Sonstige,260,2023
+671,Saarland,Total,781413,2023
+672,Sachsen,Gasoline,1702859,2023
+673,Sachsen,Diesel,862004,2023
+674,Sachsen,Gas,16913,2023
+675,Sachsen,Electric,26565,2023
+676,Sachsen,Hybrid total,85497,2023
+677,Sachsen,Plug-in Hybrid,23979,2023
+678,Sachsen,Sonstige,1025,2023
+679,Sachsen,Total,2694863,2023
+680,Sachsen-Anhalt,Gasoline,938866,2023
+681,Sachsen-Anhalt,Diesel,501856,2023
+682,Sachsen-Anhalt,Gas,9836,2023
+683,Sachsen-Anhalt,Electric,14137,2023
+684,Sachsen-Anhalt,Hybrid total,42764,2023
+685,Sachsen-Anhalt,Plug-in Hybrid,11593,2023
+686,Sachsen-Anhalt,Sonstige,745,2023
+687,Sachsen-Anhalt,Total,1508204,2023
+688,Schleswig-Holstein,Gasoline,1217618,2023
+689,Schleswig-Holstein,Diesel,798358,2023
+690,Schleswig-Holstein,Gas,12841,2023
+691,Schleswig-Holstein,Electric,42911,2023
+692,Schleswig-Holstein,Hybrid total,64522,2023
+693,Schleswig-Holstein,Plug-in Hybrid,23734,2023
+694,Schleswig-Holstein,Sonstige,744,2023
+695,Schleswig-Holstein,Total,2136994,2023
+696,Thüringen,Gasoline,908189,2023
+697,Thüringen,Diesel,527919,2023
+698,Thüringen,Gas,8189,2023
+699,Thüringen,Electric,17136,2023
+700,Thüringen,Hybrid total,45757,2023
+701,Thüringen,Plug-in Hybrid,13166,2023
+702,Thüringen,Sonstige,477,2023
+703,Thüringen,Total,1507667,2023
+720,Baden-Württemberg,Gasoline,5031247,2024
+721,Baden-Württemberg,Diesel,2822540,2024
+722,Baden-Württemberg,Gas,46913,2024
+723,Baden-Württemberg,Electric,245218,2024
+724,Baden-Württemberg,Hybrid total,443820,2024
+725,Baden-Württemberg,Plug-in Hybrid,154035,2024
+726,Baden-Württemberg,Sonstige,2171,2024
+727,Baden-Württemberg,Total,8591909,2024
+728,Bayern,Gasoline,6004296,2024
+729,Bayern,Diesel,3932095,2024
+730,Bayern,Gas,53144,2024
+731,Bayern,Electric,289207,2024
+732,Bayern,Hybrid total,534213,2024
+733,Bayern,Plug-in Hybrid,164368,2024
+734,Bayern,Sonstige,2882,2024
+735,Bayern,Total,10815837,2024
+736,Berlin,Gasoline,955964,2024
+737,Berlin,Diesel,385608,2024
+738,Berlin,Gas,13994,2024
+739,Berlin,Electric,42749,2024
+740,Berlin,Hybrid total,103124,2024
+741,Berlin,Plug-in Hybrid,26888,2024
+742,Berlin,Sonstige,613,2024
+743,Berlin,Total,1502052,2024
+744,Brandenburg,Gasoline,1142228,2024
+745,Brandenburg,Diesel,611426,2024
+746,Brandenburg,Gas,15455,2024
+747,Brandenburg,Electric,30067,2024
+748,Brandenburg,Hybrid total,72817,2024
+749,Brandenburg,Plug-in Hybrid,18838,2024
+750,Brandenburg,Sonstige,653,2024
+751,Brandenburg,Total,1872646,2024
+752,Bremen,Gasoline,207983,2024
+753,Bremen,Diesel,111354,2024
+754,Bremen,Gas,2814,2024
+755,Bremen,Electric,7631,2024
+756,Bremen,Hybrid total,19044,2024
+757,Bremen,Plug-in Hybrid,5972,2024
+758,Bremen,Sonstige,225,2024
+759,Bremen,Total,349051,2024
+760,Hamburg,Gasoline,552168,2024
+761,Hamburg,Diesel,292989,2024
+762,Hamburg,Gas,5405,2024
+763,Hamburg,Electric,33625,2024
+764,Hamburg,Hybrid total,71913,2024
+765,Hamburg,Plug-in Hybrid,25035,2024
+766,Hamburg,Sonstige,343,2024
+767,Hamburg,Total,956443,2024
+768,Hessen,Gasoline,2767259,2024
+769,Hessen,Diesel,1506475,2024
+770,Hessen,Gas,30684,2024
+771,Hessen,Electric,142434,2024
+772,Hessen,Hybrid total,283021,2024
+773,Hessen,Plug-in Hybrid,95121,2024
+774,Hessen,Sonstige,1782,2024
+775,Hessen,Total,4731655,2024
+776,Mecklenburg-Vorpommern,Gasoline,639219,2024
+777,Mecklenburg-Vorpommern,Diesel,417548,2024
+778,Mecklenburg-Vorpommern,Gas,7226,2024
+779,Mecklenburg-Vorpommern,Electric,14006,2024
+780,Mecklenburg-Vorpommern,Hybrid total,37592,2024
+781,Mecklenburg-Vorpommern,Plug-in Hybrid,8548,2024
+782,Mecklenburg-Vorpommern,Sonstige,394,2024
+783,Mecklenburg-Vorpommern,Total,1115985,2024
+784,Niedersachsen,Gasoline,3428352,2024
+785,Niedersachsen,Diesel,2231492,2024
+786,Niedersachsen,Gas,51886,2024
+787,Niedersachsen,Electric,163737,2024
+788,Niedersachsen,Hybrid total,226266,2024
+789,Niedersachsen,Plug-in Hybrid,76376,2024
+790,Niedersachsen,Sonstige,2126,2024
+791,Niedersachsen,Total,6103859,2024
+792,Nordrhein-Westfalen,Gasoline,7648956,2024
+793,Nordrhein-Westfalen,Diesel,3828399,2024
+794,Nordrhein-Westfalen,Gas,136623,2024
+795,Nordrhein-Westfalen,Electric,360964,2024
+796,Nordrhein-Westfalen,Hybrid total,653117,2024
+797,Nordrhein-Westfalen,Plug-in Hybrid,214196,2024
+798,Nordrhein-Westfalen,Sonstige,4003,2024
+799,Nordrhein-Westfalen,Total,12632062,2024
+800,Rheinland-Pfalz,Gasoline,1924521,2024
+801,Rheinland-Pfalz,Diesel,1114716,2024
+802,Rheinland-Pfalz,Gas,19800,2024
+803,Rheinland-Pfalz,Electric,75598,2024
+804,Rheinland-Pfalz,Hybrid total,137425,2024
+805,Rheinland-Pfalz,Plug-in Hybrid,42583,2024
+806,Rheinland-Pfalz,Sonstige,845,2024
+807,Rheinland-Pfalz,Total,3272905,2024
+808,Saarland,Gasoline,489135,2024
+809,Saarland,Diesel,238413,2024
+810,Saarland,Gas,3236,2024
+811,Saarland,Electric,16005,2024
+812,Saarland,Hybrid total,38143,2024
+813,Saarland,Plug-in Hybrid,11010,2024
+814,Saarland,Sonstige,251,2024
+815,Saarland,Total,785183,2024
+816,Sachsen,Gasoline,1689014,2024
+817,Sachsen,Diesel,857919,2024
+818,Sachsen,Gas,16793,2024
+819,Sachsen,Electric,36787,2024
+820,Sachsen,Hybrid total,107750,2024
+821,Sachsen,Plug-in Hybrid,26409,2024
+822,Sachsen,Sonstige,1021,2024
+823,Sachsen,Total,2709284,2024
+824,Sachsen-Anhalt,Gasoline,931082,2024
+825,Sachsen-Anhalt,Diesel,499964,2024
+826,Sachsen-Anhalt,Gas,9641,2024
+827,Sachsen-Anhalt,Electric,17828,2024
+828,Sachsen-Anhalt,Hybrid total,54247,2024
+829,Sachsen-Anhalt,Plug-in Hybrid,12712,2024
+830,Sachsen-Anhalt,Sonstige,704,2024
+831,Sachsen-Anhalt,Total,1513466,2024
+832,Schleswig-Holstein,Gasoline,1208705,2024
+833,Schleswig-Holstein,Diesel,795442,2024
+834,Schleswig-Holstein,Gas,12248,2024
+835,Schleswig-Holstein,Electric,55423,2024
+836,Schleswig-Holstein,Hybrid total,81124,2024
+837,Schleswig-Holstein,Plug-in Hybrid,25522,2024
+838,Schleswig-Holstein,Sonstige,739,2024
+839,Schleswig-Holstein,Total,2153681,2024
+840,Thüringen,Gasoline,901029,2024
+841,Thüringen,Diesel,523731,2024
+842,Thüringen,Gas,7993,2024
+843,Thüringen,Electric,22404,2024
+844,Thüringen,Hybrid total,58370,2024
+845,Thüringen,Plug-in Hybrid,14276,2024
+846,Thüringen,Sonstige,473,2024
+847,Thüringen,Total,1514000,2024
+864,Baden-Württemberg,Gasoline,5000635,2025
+865,Baden-Württemberg,Diesel,2790414,2025
+866,Baden-Württemberg,Gas,45343,2025
+867,Baden-Württemberg,Electric,285036,2025
+868,Baden-Württemberg,Hybrid total,539387,2025
+869,Baden-Württemberg,Plug-in Hybrid,162480,2025
+870,Baden-Württemberg,Sonstige,2084,2025
+871,Baden-Württemberg,Total,8662899,2025
+872,Bayern,Gasoline,6000504,2025
+873,Bayern,Diesel,3869534,2025
+874,Bayern,Gas,51522,2025
+875,Bayern,Electric,340449,2025
+876,Bayern,Hybrid total,642673,2025
+877,Bayern,Plug-in Hybrid,168409,2025
+878,Bayern,Sonstige,2835,2025
+879,Bayern,Total,10907517,2025
+880,Berlin,Gasoline,932341,2025
+881,Berlin,Diesel,377302,2025
+882,Berlin,Gas,12969,2025
+883,Berlin,Electric,49028,2025
+884,Berlin,Hybrid total,120119,2025
+885,Berlin,Plug-in Hybrid,28458,2025
+886,Berlin,Sonstige,587,2025
+887,Berlin,Total,1492346,2025
+888,Brandenburg,Gasoline,1135719,2025
+889,Brandenburg,Diesel,610008,2025
+890,Brandenburg,Gas,14901,2025
+891,Brandenburg,Electric,36104,2025
+892,Brandenburg,Hybrid total,94184,2025
+893,Brandenburg,Plug-in Hybrid,21779,2025
+894,Brandenburg,Sonstige,658,2025
+895,Brandenburg,Total,1891574,2025
+896,Bremen,Gasoline,205217,2025
+897,Bremen,Diesel,109800,2025
+898,Bremen,Gas,2661,2025
+899,Bremen,Electric,9056,2025
+900,Bremen,Hybrid total,22814,2025
+901,Bremen,Plug-in Hybrid,6224,2025
+902,Bremen,Sonstige,216,2025
+903,Bremen,Total,349764,2025
+904,Hamburg,Gasoline,541454,2025
+905,Hamburg,Diesel,284530,2025
+906,Hamburg,Gas,5031,2025
+907,Hamburg,Electric,39679,2025
+908,Hamburg,Hybrid total,84395,2025
+909,Hamburg,Plug-in Hybrid,24185,2025
+910,Hamburg,Sonstige,335,2025
+911,Hamburg,Total,955424,2025
+912,Hessen,Gasoline,2741052,2025
+913,Hessen,Diesel,1486394,2025
+914,Hessen,Gas,29435,2025
+915,Hessen,Electric,155180,2025
+916,Hessen,Hybrid total,332866,2025
+917,Hessen,Plug-in Hybrid,92621,2025
+918,Hessen,Sonstige,1669,2025
+919,Hessen,Total,4746596,2025
+920,Mecklenburg-Vorpommern,Gasoline,636163,2025
+921,Mecklenburg-Vorpommern,Diesel,415009,2025
+922,Mecklenburg-Vorpommern,Gas,7192,2025
+923,Mecklenburg-Vorpommern,Electric,16420,2025
+924,Mecklenburg-Vorpommern,Hybrid total,48901,2025
+925,Mecklenburg-Vorpommern,Plug-in Hybrid,9925,2025
+926,Mecklenburg-Vorpommern,Sonstige,383,2025
+927,Mecklenburg-Vorpommern,Total,1124068,2025
+928,Niedersachsen,Gasoline,3402328,2025
+929,Niedersachsen,Diesel,2217247,2025
+930,Niedersachsen,Gas,48962,2025
+931,Niedersachsen,Electric,188925,2025
+932,Niedersachsen,Hybrid total,285125,2025
+933,Niedersachsen,Plug-in Hybrid,83052,2025
+934,Niedersachsen,Sonstige,2161,2025
+935,Niedersachsen,Total,6144748,2025
+936,Nordrhein-Westfalen,Gasoline,7597293,2025
+937,Nordrhein-Westfalen,Diesel,3779667,2025
+938,Nordrhein-Westfalen,Gas,130256,2025
+939,Nordrhein-Westfalen,Electric,428917,2025
+940,Nordrhein-Westfalen,Hybrid total,797680,2025
+941,Nordrhein-Westfalen,Plug-in Hybrid,225804,2025
+942,Nordrhein-Westfalen,Sonstige,3923,2025
+943,Nordrhein-Westfalen,Total,12737736,2025
+944,Rheinland-Pfalz,Gasoline,1917003,2025
+945,Rheinland-Pfalz,Diesel,1099912,2025
+946,Rheinland-Pfalz,Gas,19282,2025
+947,Rheinland-Pfalz,Electric,89275,2025
+948,Rheinland-Pfalz,Hybrid total,172210,2025
+949,Rheinland-Pfalz,Plug-in Hybrid,46006,2025
+950,Rheinland-Pfalz,Sonstige,800,2025
+951,Rheinland-Pfalz,Total,3298482,2025
+952,Saarland,Gasoline,486209,2025
+953,Saarland,Diesel,233578,2025
+954,Saarland,Gas,3237,2025
+955,Saarland,Electric,18493,2025
+956,Saarland,Hybrid total,46987,2025
+957,Saarland,Plug-in Hybrid,11603,2025
+958,Saarland,Sonstige,237,2025
+959,Saarland,Total,788741,2025
+960,Sachsen,Gasoline,1677006,2025
+961,Sachsen,Diesel,851181,2025
+962,Sachsen,Gas,16388,2025
+963,Sachsen,Electric,42539,2025
+964,Sachsen,Hybrid total,134986,2025
+965,Sachsen,Plug-in Hybrid,28819,2025
+966,Sachsen,Sonstige,998,2025
+967,Sachsen,Total,2723098,2025
+968,Sachsen-Anhalt,Gasoline,922621,2025
+969,Sachsen-Anhalt,Diesel,497545,2025
+970,Sachsen-Anhalt,Gas,9447,2025
+971,Sachsen-Anhalt,Electric,20999,2025
+972,Sachsen-Anhalt,Hybrid total,70303,2025
+973,Sachsen-Anhalt,Plug-in Hybrid,14681,2025
+974,Sachsen-Anhalt,Sonstige,696,2025
+975,Sachsen-Anhalt,Total,1521611,2025
+976,Schleswig-Holstein,Gasoline,1199902,2025
+977,Schleswig-Holstein,Diesel,790352,2025
+978,Schleswig-Holstein,Gas,11716,2025
+979,Schleswig-Holstein,Electric,64749,2025
+980,Schleswig-Holstein,Hybrid total,102646,2025
+981,Schleswig-Holstein,Plug-in Hybrid,27992,2025
+982,Schleswig-Holstein,Sonstige,720,2025
+983,Schleswig-Holstein,Total,2170085,2025
+984,Thüringen,Gasoline,893556,2025
+985,Thüringen,Diesel,518676,2025
+986,Thüringen,Gas,7818,2025
+987,Thüringen,Electric,23915,2025
+988,Thüringen,Hybrid total,73958,2025
+989,Thüringen,Plug-in Hybrid,15529,2025
+990,Thüringen,Sonstige,449,2025
+991,Thüringen,Total,1518372,2025

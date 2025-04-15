@@ -4,6 +4,7 @@
 # It includes functions for data preprocessing, merging Excel sheets, and creating new DataFrames.
 import pandas as pd
 import numpy as np
+from matplotlib.ticker import FuncFormatter
 
 # Define a list of German states
 # The list includes all 16 federal states of Germany
@@ -123,6 +124,23 @@ def thousands_millions_formatter(x, pos):
     else:
         return f'{int(x)}'
 
+# Define a function to format numbers in thousands using european style
+# The function takes a number and its position as input and returns a formatted string
+# This is to replace the default number formatting in matplotlib
+# The function is used to display numbers in a more readable format, especially for large numbers
+
+def european_thousands(x, pos):
+    return f'{x:,.0f}'.replace(',', '.')
+
+
+def format_axes(ax):
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.yaxis.set_major_formatter(FuncFormatter(thousands_millions_formatter))
+
+
+
+# Define a list of colors used in presentation
 presentation_colors = ['#81E552', '#59BD2F', '#FD8714', '#4CD8E8', '#029BD8', '#FFDA00']
 
 
@@ -156,6 +174,9 @@ def percentage_null_values(data):
 
 
 
+# Define a function to merge multiple sheets from an Excel file into a single DataFrame
+# The function assumes that the sheet names are years and that the first row of each sheet contains the column headers
+# The function will add a new column 'Year' to the DataFrame, which will contain the year corresponding to each sheet
 
 def merge_excel_sheets(file_path):
     """
